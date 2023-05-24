@@ -69,7 +69,7 @@
 67,77,Surfing,"New Smyrna Beach, Volusia County",M,2001,Foot & ankle lacerated,2001.04.13.a,Unknown,38.0,Unprovoked,Florida,USA,N,unknown,77
 68,78,Body-boarding,"Sandy Beach, Oahu",M,2001,"Minor cuts on left hand, body board bitten",2001.04.02.b,Unknown,,Unprovoked,Hawaii,USA,N,unknown,78
 69,81,Swimming,"Coco Beach, Dar-es-Salaam (Reported as the 5th fatality in 3 months at Coco Beach)",M,2000,FATAL,2000.09.10.b,Unknown,28.0,Unprovoked,,TANZANIA,Y,zambesi,81
-70,82,Swimming,"Coco Beach, Dar-es-Salaam",,2000,FATAL,2000.09.08.b,Unknown,,Unprovoked,,TANZANIA,Y,zambesi,82
+70,82,Swimming,"Coco Beach, Dar-es-Salaam",Unknown,2000,FATAL,2000.09.08.b,Unknown,,Unprovoked,,TANZANIA,Y,zambesi,82
 71,83,Fishing,"Papamoa Beach, Bay of Plenty",M,2000,"No injury, shark bit the dinghy",2000.07.00,Unknown,,Watercraft,North Island,NEW ZEALAND,N,unknown,83
 72,84,Surfing,"Palm Beach, Palm Beach County",M,1999,Lacerations to hand & wrist,1999.12.06,Unknown,19,Unprovoked,Florida,USA,N,unknown,84
 73,85,Wading with surfboard,"Ponce Inlet, Volusia County",M,1999,Right foot bitten,1999.09.05,Evening,39,Unprovoked,Florida,USA,N,unknown,85
@@ -89,15 +89,15 @@
 87,99,Wading,"Spessard Holland Park, Melbourne Beach, Brevard County",F,1994,Lower left calf & ankle  lacerated,1994.05.31.a,Unknown,36,Unprovoked,Florida,USA,N,unknown,99
 88,100,"Surfing, paddling shorewards","Horners, Wailua, Kaua'i",M,1993,Left leg severely bitten,1993.11.28,Morning,,Unprovoked,Hawaii,USA,N,unknown,100
 89,101,Swimming,"Port Sandwich, Malakula",F,1992,Right leg was bitten above and below the knee and an artery was punctured,1992.06.28.b,Unknown,21,Unprovoked,Malampa Province,VANUATU,N,unknown,101
-90,102,Diving,,,1992,Survived,1992.06.19,Unknown,,Unprovoked,Saint-Paul,REUNION,N,unknown,102
-91,104,Fishing,"Praia de Pau Amarelo, Recife",,1991,2 fingers severed by netted shark PROVOKED INCIDENT,1991.05.26,Unknown,,Provoked,Pernambuco,BRAZIL,N,unknown,104
-92,105,Diving,Baltimore Aquarium,,1991,Minor injury by captive shark PROVOKED INCIDENT,1991.05.19,Morning,,Provoked,Maryland,USA,N,unknown,105
+90,102,Diving,,Unknown,1992,Survived,1992.06.19,Unknown,,Unprovoked,Saint-Paul,REUNION,N,unknown,102
+91,104,Fishing,"Praia de Pau Amarelo, Recife",Unknown,1991,2 fingers severed by netted shark PROVOKED INCIDENT,1991.05.26,Unknown,,Provoked,Pernambuco,BRAZIL,N,unknown,104
+92,105,Diving,Baltimore Aquarium,Unknown,1991,Minor injury by captive shark PROVOKED INCIDENT,1991.05.19,Morning,,Provoked,Maryland,USA,N,unknown,105
 93,106,Sitting on surfboard,"One'ula Beach Park, 'Ewa Beach, O'ahu",M,1991,Deep lacerations to calf & ankle,1991.04.16.b,Evening,,Unprovoked,Hawaii,USA,N,unknown,106
 94,107,Surfing (lying prone on his board),"Pacific Beach, Grays Harbor County",M,1989,Forearm bitten,1989.06.00,Morning,,Unprovoked,Washington,USA,N,unknown,107
 95,108,Surfing / treading water,"Melbourne Beach, Brevard County",M,1988,Left leg & right foot bitten,1988.05.27,Morning,29.0,Unprovoked,Florida,USA,N,unknown,108
 96,109,Swimming,"Singer Island, Riviera Beach, Palm Beach County",M,1988,Lacerations to left foot,1988.04.28,Evening,24,Unprovoked,Florida,USA,N,unknown,109
 97,110,Surfing,"Singer Island, Riviera Beach, Palm Beach County",M,1988,Right hand bitten,1988.04.15a,Unknown,14,Unprovoked,Florida,USA,N,unknown,110
-98,111,,Muizenberg,,1987,"No injury to occupants, boat holed by hooked shark PROVOKED INCIDENT",1987.04.01,Unknown,,Provoked,Western Cape Province,SOUTH AFRICA,N,unknown,111
+98,111,,Muizenberg,Unknown,1987,"No injury to occupants, boat holed by hooked shark PROVOKED INCIDENT",1987.04.01,Unknown,,Provoked,Western Cape Province,SOUTH AFRICA,N,unknown,111
 99,112,Surfing,"Daytona Beach, Volusia County",M,1986,5' gash in leg,1986.12.04,Morning,17.0,Unprovoked,Florida,USA,N,unknown,112
 100,113,Spearfishing,Reef on seaward side of Geyser Island,M,1986,"No injury, shark made threat display & impaled itself on spear",1986.09.00.a,Morning,35.0,Invalid,Western Cape Province,SOUTH AFRICA,U,unknown,113
 101,114,Wading,"Mission Beach, San Diego County",M,1984,Arm bitten,1984.09.22.a,Unknown,,Unprovoked,California,USA,N,blue,114
@@ -110,7 +110,7 @@
 108,122,Floating with life preserver after his boat foundered,10 miles off Cape Canaveral,M,1979,Lacerations to leg,1979.08.05,Morning,56,Sea Disaster,Florida,USA,N,unknown,122
 109,124,Spearfishing,"Miller's Point, False Bay",M,1978,"No injury, shark took his catch, then towed & pushed diver through the water",1978.11.23,Unknown,27.0,Unprovoked,Western Cape Province,SOUTH AFRICA,N,unknown,124
 110,125,Standing,Klein River Lagoon,M,1977,Shark lacerated his hand when he grabbed it by the tail PROVOKED INCIDENT,1977.12.19.a,Unknown,,Provoked,Western Cape Province,SOUTH AFRICA,N,unknown,125
-111,126,Boat,Gordon’s Bay,,1976,"No injury to occupants, shark leapt on bow of boat",1976.11.23,Unknown,,Watercraft,Western Cape Province,SOUTH AFRICA,N,unknown,126
+111,126,Boat,Gordon’s Bay,Unknown,1976,"No injury to occupants, shark leapt on bow of boat",1976.11.23,Unknown,,Watercraft,Western Cape Province,SOUTH AFRICA,N,unknown,126
 112,127,Swimming,"Jacksonville, Duval County",M,1976,FATAL,1976.09.19,Unknown,16,Unprovoked,Florida,USA,Y,unknown,127
 113,128,"Diving for abaone (Scuba, but at surface)","Perch Rock, Point Conception, Santa Barbara County",M,1975,Legs bitten,1975.07.26.b,Unknown,23.0,Unprovoked,California,USA,N,unknown,128
 114,129,,"New Smyrna Beach, Volusia County",M,1975,Slightly injured when he stepped on a shark PROVOKED INCIDENT,1975.06.15,Unknown,,Provoked,Florida,USA,N,unknown,129
@@ -126,7 +126,7 @@
 124,139,Body surfing,"Brennecke Beach, Po'ipu, Kaua'i",M,1970,Shoulder & arm bitten,1970.12.03,Unknown,,Unprovoked,Hawaii,USA,N,unknown,139
 125,140,"Fishing, trying to catch the end of his fishing line",Shatt-al-Arab River,M,1970,Left hand bitten,1970.00.00.c,Unknown,35.0,Unprovoked,Basrah,IRAQ,N,unknown,140
 126,142,Free diving,"Bodega Rock, Sonoma County",M,1968,Major injury to torso,1968.08.11,Morning,25.0,Unprovoked,California,USA,N,unknown,142
-127,143,Swimming,Finschafen,,1968,FATAL,1968.02.02,Evening,13,Unprovoked,Morobe Province,PAPUA NEW GUINEA,Y,unknown,143
+127,143,Swimming,Finschafen,Unknown,1968,FATAL,1968.02.02,Evening,13,Unprovoked,Morobe Province,PAPUA NEW GUINEA,Y,unknown,143
 128,144,Fishing boat,Stretto di Messina,M,1967,"No injury to occupants,  harpooned shark sank boat PROVOKED INCIDENT",1967.07.00,Unknown,,Provoked,Sicily,ITALY,N,unknown,144
 129,145,The shrimper Loless Maurine capsized in heavy seas & the men were swimming ashore,Cabo Rojo,M,1967,FATAL,1967.03.09,Unknown,,Sea Disaster,Veracruz,MEXICO,Y,unknown,145
 130,146,Diving into water,"Butliwan Village, 15 miles north of Rabaul",F,1966,FATAL,1966.08.27.a,Midday,9.0,Unprovoked,Duke of York Islands,NEW BRITAIN,Y,unknown,146
@@ -140,14 +140,14 @@
 138,155,Spearfishing / Scuba diving (at surface),Southeast Farallon Island,M,1964,Leg & thigh bitten,1964.01.21,Morning,21.0,Unprovoked,California,USA,N,unknown,155
 139,156,Bathing,"New Smyrna Beach, Volusia County",M,1963,"Left forearm bitten, surgically amputated?",1963.08.00,Unknown,14.0,Unprovoked,Florida,USA,N,unknown,156
 140,157,Swimming,near Trikerion Island,F,1963,FATAL,1963.07.10.R,Unknown,42,Unprovoked,Thessaly,GREECE,Y,unknown,157
-141,160,Shark fishing,Tory Channel,,1960,Harpooned shark bit boat PROVOKED INCIDENT,1960.07.02.a,Unknown,,Provoked,Cook Strait,NEW ZEALAND,N,unknown,160
+141,160,Shark fishing,Tory Channel,Unknown,1960,Harpooned shark bit boat PROVOKED INCIDENT,1960.07.02.a,Unknown,,Provoked,Cook Strait,NEW ZEALAND,N,unknown,160
 142,162,Body surfing,"Fairhaven Beach, Lorne",M,1959,"Thighs bitten, right hand lacerated",1959.12.03,Unknown,19.0,Unprovoked,Victoria,AUSTRALIA,N,unknown,162
-143,164,Fishing,"Off La Jolla Cove, San Diego County",,1959,"No injury to occupant, shark rammed boat",1959.07.25.b,Unknown,,Watercraft,California,USA,N,hammerhead,164
+143,164,Fishing,"Off La Jolla Cove, San Diego County",Unknown,1959,"No injury to occupant, shark rammed boat",1959.07.25.b,Unknown,,Watercraft,California,USA,N,hammerhead,164
 144,165,Spearfishing,"Panama City, Bay County",M,1959,Lacerated hip & hands,1959.05.16,Morning,19.0,Unprovoked,Florida,USA,N,tiger,165
 145,166,"On boat, preparing to dive",Miami,M,1959,Boat followed shark; shark holed boat,1959.03.29,Unknown,,Watercraft,Florida,USA,N,tiger,166
 146,167,Fishing,"Ururumba, mouth of Kikori River 7.45S, 144.40E",M,1959,Arm bitten by shark that he thought was dead PROVOKED INCIDENT,1959.02.28,Unknown,,Provoked,Kikori River mouth,PAPUA NEW GUINEA,N,unknown,167
-147,168,Boat stopped to repair electric pump,Ensenada,,1958,Shark tried to bite prop twice,1958.09.06,Morning,,Boat,Baja California,MEXICO,N,hammerhead,168
-148,169,,"Brooker Island , Calvados Chain",,1958,FATAL,1958.00.00.i,Unknown,,Unprovoked,Louisiade Archipelago,PAPUA NEW GUINEA,Y,unknown,169
+147,168,Boat stopped to repair electric pump,Ensenada,Unknown,1958,Shark tried to bite prop twice,1958.09.06,Morning,,Boat,Baja California,MEXICO,N,hammerhead,168
+148,169,,"Brooker Island , Calvados Chain",Unknown,1958,FATAL,1958.00.00.i,Unknown,,Unprovoked,Louisiade Archipelago,PAPUA NEW GUINEA,Y,unknown,169
 149,170,Spearfishing,"Kombe, Talasea",M,1958,"FATAL, severe abdominal injuries",1958.00.00.f,Unknown,,Unprovoked,West New Britain Province,PAPUA NEW GUINEA,Y,unknown,170
 150,171,Swimming between  anchored  pearling luggers,"Thursday Island Harbour, Queensland",M,1957,"Left arm bitten, surgically amputated",1957.04.23,Unknown,22.0,Unprovoked,Torres Strait,AUSTRALIA,N,unknown,171
 151,172,Treading water,"Merewether Beach, Newcastle",M,1951,FATAL,1951.12.16,Unknown,21.0,Unprovoked,New South Wales,AUSTRALIA,Y,unknown,172
@@ -191,13 +191,13 @@
 189,211,Attempting to rescue shipmate,Fort de France,M,1891,Injured,1891.12.31.R,Unknown,,Unprovoked,,MARTINIQUE,N,unknown,211
 190,212,Swimming,"Lampton Harbour, Wellington",M,1890,FATAL,1890.00.00.d,Unknown,,Unprovoked,North Island,NEW ZEALAND,Y,unknown,212
 191,213,Bathing,Cape Vidal,M,1890,"FATAL, leg bitten, foot partly severed",1890.00.00.c,Unknown,,Unprovoked,KwaZulu-Natal,SOUTH AFRICA,Y,unknown,213
-192,214,,Patras,,1889,"Human remains found in 4m, 900 kg shark",1890.00.00.b,Unknown,,Invalid,Northern Peloponnese,GREECE,U,unknown,214
+192,214,,Patras,Unknown,1889,"Human remains found in 4m, 900 kg shark",1890.00.00.b,Unknown,,Invalid,Northern Peloponnese,GREECE,U,unknown,214
 193,215,Cleaning the side of a ship,Freetown,M,1889,FATAL,1889.07.08,Unknown,,Unprovoked,Western Area,SIERRA LEONE,Y,unknown,215
 194,216,Working on the bridge when he fell into the river,"Hawkesbury Bridge, Sydney",M,1888,FATAL,1888.12.25.R,Unknown,,Unprovoked,New South Wales,AUSTRALIA,Y,unknown,216
 195,217,Fell overboard,Millers Point,M,1882,Laceration to calf,1882.11.12.a,Unknown,,Unprovoked,New South Wales,AUSTRALIA,N,unknown,217
 196,218,Bathing,Cooranbong,F,1880,Lacerations to leg,1880.05.02.a,Unknown,13,Unprovoked,New South Wales,AUSTRALIA,N,unknown,218
 197,219,Bathing,"Lane Cove River, Sydney Harbor",M,1878,Laceration to leg,1879.03.10,Unknown,,Unprovoked,New South Wales,AUSTRALIA,N,unknown,219
-198,220,Fleet of canoes caught by a squall and charged by sharks.,Between Nanumea & Nanumaga Atolls,,1874,"2 people out of +70 survived, one of whom was bitten by sharks",1874.06.00,Unknown,,Sea Disaster,,TUVALU,Y,unknown,220
+198,220,Fleet of canoes caught by a squall and charged by sharks.,Between Nanumea & Nanumaga Atolls,Unknown,1874,"2 people out of +70 survived, one of whom was bitten by sharks",1874.06.00,Unknown,,Sea Disaster,,TUVALU,Y,unknown,220
 199,221,Swimming to avoid capture,,M,1872,FATAL,1873.01.09.R,Unknown,,Unprovoked,,INDIAN OCEAN?,Y,unknown,221
 200,223,Fell overboard,,M,1863,FATAL,1863.00.00.R4,Unknown,,Unprovoked,,CEYLON,Y,unknown,223
 201,225,Fell overboard,Coalcliff,M,1852,FATAL,1852.12.19,Unknown,,Unprovoked,New South Wales,AUSTRALIA,Y,unknown,225
@@ -206,7 +206,7 @@
 204,228,Swimming,Tombo Island in the Sierra Leone River,M,1827,Davis' leg was severed,1828.00.00,Unknown,,Unprovoked,Western Area,SIERRA LEONE,N,unknown,228
 205,229,,Archeological site,M,1000,FATAL,518.04.00.R,Unknown,29,Unprovoked,Puerto Rico,USA,Y,tiger,229
 206,230,Surfing,"Lost Tree Village, Palm Beach County",M,,Legs bitten,ND-0124,Unknown,,Unprovoked,Florida,USA,N,unknown,230
-207,231,Wreck of  large double sailing canoe,,,,"FATAL, 18 people  were killed by sharks, 2 survived",ND.0017,Unknown,,Unprovoked,Moala Island,FIJI,Y,unknown,231
+207,231,Wreck of  large double sailing canoe,,Unknown,,"FATAL, 18 people  were killed by sharks, 2 survived",ND.0017,Unknown,,Unprovoked,Moala Island,FIJI,Y,unknown,231
 208,232,Wading,Durban,M,,"FATAL, leg stripped of flesh",ND.0014,Unknown,,Unprovoked,KwaZulu-Natal,SOUTH AFRICA,Y,unknown,232
 209,233,Pearl diving,,M,,FATAL,ND.0006,Unknown,,Unprovoked,Western Australia,AUSTRALIA,Y,unknown,233
 210,234,Fishing,Lady Musgrave Island,M,2023,Minor injury to chest,"2023.02,04",Unknown,8,Unprovoked,Queensland,AUSTRALIA,N,unknown,234
@@ -231,7 +231,7 @@
 229,254,Surfing,Nirvana Beach,M,2018,No Injury. Shark swam away with the surf board,2018.04.15.b,Morning,,Unprovoked,New Providence,BAHAMAS,N,tiger,254
 230,255,Spearfishing,"Avalon Point, Manurah",M,2018,No injury no attack. This is considerd an encounter,2018.02.11,Unknown,14.0,Invalid,Western Australia,AUSTRALIA,N,unknown,255
 231,256,Kayaking / Fishing,Normanville,F,2017,Minor injuries,2017.10.23.b,Unknown,15.0,Unprovoked,South Australia,AUSTRALIA,N,unknown,256
-232,257,Fishing,Esperance,,2017,"sharks rammed boats, no injury to occupants",2017.09.15.b,Unknown,,Watercraft,Westerm Australia,AUSTRALIA,N,unknown,257
+232,257,Fishing,Esperance,Unknown,2017,"sharks rammed boats, no injury to occupants",2017.09.15.b,Unknown,,Watercraft,Westerm Australia,AUSTRALIA,N,unknown,257
 233,258,Spearfishing,"Middle Sambo Reef off Boca Chica, Monroe County",M,2017,Laceration to shin,2017.06.10.a,Unknown,,Unprovoked,Florida,USA,N,unknown,258
 234,259,Surfing,Kelpies near Wylie Bay,F,2017,FATAL,2017.04.20,Unknown,17.0,Unprovoked,Western Australia,AUSTRALIA,Y,unknown,259
 235,260,Scuba Diving,,M,2017,Lacerations to upper right arm,2017.02.06.a,Unknown,37.0,Unprovoked,Bimini,BAHAMAS,N,reef,260
@@ -256,7 +256,7 @@
 254,279,Surfing,Target Beach,M,2013,"No injury, board damaged",2013.06.14.R,Unknown,,Unprovoked,New South Wales,AUSTRALIA,N,unknown,279
 255,280,Surfing,Trigg Beach,M,2012,No injury,2012.12.28,Morning,32,Unprovoked,Western Australia,AUSTRALIA,N,tiger,280
 256,281,Surfing,"Spanish House Beach, Brevard County",M,2012,Left foot bitten,2012.10.02,Unknown,22,Unprovoked,Florida,USA,N,unknown,281
-257,282,Surfing,"New Smyrna Beach, Volusia County",,2012,Minor injury to elbow,2012.09.16,Unknown,19,Unprovoked,Florida,USA,N,unknown,282
+257,282,Surfing,"New Smyrna Beach, Volusia County",Unknown,2012,Minor injury to elbow,2012.09.16,Unknown,19,Unprovoked,Florida,USA,N,unknown,282
 258,283,Swimming,"Coral Cove, Cabo de Santo Agostinho",M,2012,FATAL,2012.08.31,Unknown,18,Unprovoked,Pernambuco,BRAZIL,Y,unknown,283
 259,284,Surfing,,M,2012,FATAL,2012.07.30.a,Unknown,22,Unprovoked,Trois-Bassins,REUNION,Y,unknown,284
 260,285,Swimming,"Myrtle Beach, Horry County",F,2012,Foot & hand bitten,2012.06.18,Unknown,18,Unprovoked,South Carolina,USA,N,blacktip,285
@@ -276,7 +276,7 @@
 274,299,Surfing,Kawa'a,M,2009,"No injury, surfboard bitten",2009.08.11,Morning,,Unprovoked,Hawaii,USA,N,tiger,299
 275,300,Boogie Boarding,"Daytona Beach, Volusia County",F,2009,Right ankle bitten,2009.07.11.a,Unknown,12,Unprovoked,Florida,USA,N,unknown,300
 276,301,Surfing,"Second Beach, Port St. John's",M,2009,FATAL,2009.04.03,Unknown,16,Unprovoked,Eastern Cape Province,SOUTH AFRICA,Y,unknown,301
-277,302,Spearfishing,Guantanamo,,2009,Lacerations to right calf,2009.01.10.a,Unknown,,Unprovoked,Guantanamo Province,CUBA,N,bull,302
+277,302,Spearfishing,Guantanamo,Unknown,2009,Lacerations to right calf,2009.01.10.a,Unknown,,Unprovoked,Guantanamo Province,CUBA,N,bull,302
 278,303,Swimming or surfing,Playa Teta,M,2008,5 lacerations to left foot,2008.07.30.R,Evening,,Unprovoked,San Carlos,PANAMA,N,unknown,303
 279,304,Body boarding,"Lighthouse Beach, Ballina",M,2008,FATAL,2008.03.25,Morning,16,Unprovoked,New South Wales,AUSTRALIA,Y,bull,304
 280,305,Surfing,Kaikoura,F,2007,"No injury, shark bit surfboard & severed leash",2007.12.14,Unknown,,Unprovoked,South Island,NEW ZEALAND,N,unknown,305
@@ -290,15 +290,15 @@
 288,315,Surfing,San Luis beach,M,2005,Left foot bitten,2005.06.25,Morning,,Unprovoked,Baja California,MEXICO,N,unknown,315
 289,316,Swimming,Maui,M,2005,"No injury, 2.1m [7'] tiger shark approached swimmer who repelled it with his fist",2005.06.22,Morning,49,Invalid,Hawaii,USA,U,unknown,316
 290,317,Fishing from a kayak,Taupiri Bay,M,2005,"No injury, kayak bumped repeatedly",2005.01.19,Morning,39,Watercraft,North Island,NEW ZEALAND,N,unknown,317
-291,318,Fishing,Park Rynie,,2004,No injury to occupants; boat damaged,2004.08.06,Unknown,,Watercraft,KwaZulu-Natal,SOUTH AFRICA,N,unknown,318
+291,318,Fishing,Park Rynie,Unknown,2004,No injury to occupants; boat damaged,2004.08.06,Unknown,,Watercraft,KwaZulu-Natal,SOUTH AFRICA,N,unknown,318
 292,319,Surfing,"West Beach, Port Alfred",M,2004,Foot lacerated,2004.01.15.R,Unknown,22.0,Unprovoked,Eastern Cape Province,SOUTH AFRICA,N,raggedtooth,319
 293,321,Body boarding,Near the wreck of the Kakapo off Noordhoek Beach,M,2003,"FATAL, left thigh, buttocks, back of spine, abdomen & chest bitten",2003.09.13.b,Unknown,19.0,Unprovoked,Western Cape Province,SOUTH AFRICA,Y,unknown,321
-294,322,,Limay,,2003,Arm severed,2003.05.07,Unknown,,Unprovoked,Baatan,PHILIPPINES,N,unknown,322
+294,322,,Limay,Unknown,2003,Arm severed,2003.05.07,Unknown,,Unprovoked,Baatan,PHILIPPINES,N,unknown,322
 295,323,Swimming,"Coogee Bay, near Sydney",M,2003,"Puncture wounds on heel, legs and buttocks",2003.02.15.b,Unknown,24.0,Unprovoked,New South Wales,AUSTRALIA,N,nurse,323
 296,324,Surfing,Left break at the ‘Hot Spot’ at Sheringa Beach,F,2003,"No injury, but her surfboard was bitten",2003.01.17,Unknown,N/A,Unprovoked,Western Australia,AUSTRALIA,N,bronze whaler,324
 297,325,Scuba diving,"Pision Reef, Truk",M,2002,Minor injury to right calf,2002.12.16,Unknown,,Unprovoked,Caroline Islands,MICRONESIA,N,blacktip,325
 298,326,Playing in the surf with his 2 dogs,"Atlantic Avenue, Palm Beach County",M,2002,"2-inch wound on dorsum of right foot, 1-inch wound on sole",2002.05.31.a,Morning,35,Unprovoked,Florida,USA,N,unknown,326
-299,327,,"Isle of Palms, Charleston County",,2001,Hand bitten,2001.07.06.b,Unknown,,Unprovoked,South Carolina,USA,N,unknown,327
+299,327,,"Isle of Palms, Charleston County",Unknown,2001,Hand bitten,2001.07.06.b,Unknown,,Unprovoked,South Carolina,USA,N,unknown,327
 300,328,Swimming,"South Beach, Sebastian, Indian River County",M,2000,Right hand lacerated,2000.10.20,Unknown,69.0,Unprovoked,Florida,USA,N,unknown,328
 301,329,Feeding prawns to captive sharks,The Fountain Pub in Tenbury Wells,M,2000,Fingers bitten PROVOKED INCIDENT,2000.02.21,Unknown,,Provoked,Worcestershire,ENGLAND,N,blacktip,329
 302,330,Body surfing,"Gulfstream Park beach, Palm Beach County",M,1999,Shark bit 8 chunk from swim fin,1999.11.00.a,Unknown,13,Unprovoked,Florida,USA,N,unknown,330
@@ -310,9 +310,9 @@
 308,336,Wading,"Daytona Beach, Volusia County",M,1995,Thigh lacerated,1995.08.21,Morning,20.0,Unprovoked,Florida,USA,N,unknown,336
 309,337,Surfing,Port Aransas,M,1995,Foot bitten,1995.07.07,Unknown,34,Unprovoked,Texas,USA,N,unknown,337
 310,338,,"New Smyrna Beach, Volusia County",M,1995,"Dorsum of right hand bitten, a probable bluefish bite",1995.05.18,Morning,12,Invalid,Florida,USA,U,unknown,338
-311,339,Swimming,"Praia do Olho D'Água, São Luis",,1995,FATAL,1995.03.21,Unknown,,Unprovoked,Maranhão,BRAZIL,Y,unknown,339
+311,339,Swimming,"Praia do Olho D'Água, São Luis",Unknown,1995,FATAL,1995.03.21,Unknown,,Unprovoked,Maranhão,BRAZIL,Y,unknown,339
 312,340,"Surfing, paddling seawards","Off the Hanalei River, Kaua'i",F,1994,Right thigh & board bitten,1994.12.01,Morning,34.0,Unprovoked,Hawaii,USA,N,unknown,340
-313,341,Surfing,"Kealia Beach, Kaua'i",,1994,"No injury, shark bit surfboard",1994.11.25.a,Unknown,,Unprovoked,Hawaii,USA,N,unknown,341
+313,341,Surfing,"Kealia Beach, Kaua'i",Unknown,1994,"No injury, shark bit surfboard",1994.11.25.a,Unknown,,Unprovoked,Hawaii,USA,N,unknown,341
 314,342,Surfing,"Nahoon Beach, East London",M,1994,"FATAL, leg severed",1994.07.09.d,Unknown,22.0,Unprovoked,Eastern Cape Province,SOUTH AFRICA,Y,unknown,342
 315,343,Spearfishing,"Matinella Reef, 15 to 20 miles west of Walkers Cay",M,1993,Leg bitten,1993.09.09,Evening,51,Unprovoked,Walkers Cay,BAHAMAS,N,blacktip,343
 316,344,Surfing,"Pollock Beach, Port Elizabeth",M,1993,Puncture wounds on chest,1993.08.00.b,Unknown,28.0,Unprovoked,Eastern Cape Province,SOUTH AFRICA,N,unknown,344
@@ -339,9 +339,9 @@
 337,367,Gaffing netted shark,Onboard swordfish trawler,M,1980,Arm lacerated by gaffed shark PROVOKED INCIDENT,1980.01.10,Unknown,34,Provoked,,NORTH ATLANTIC OCEAN,N,dogfish,367
 338,368,Surfing,,M,1980,Knee bitten,1980.01.05,Unknown,,Invalid,Island of Kos,GREECE,U,unknown,368
 339,369,Diving,"Miller's Point, False Bay",M,1978,"No injury, rammed by shark",1978.03.05,Unknown,,Unprovoked,Western Cape Province,SOUTH AFRICA,N,unknown,369
-340,370,Shipwreck,Sarcelle,,1976,It was believed that survivors were killed by sharks,1976.10.18,Unknown,,Sea Disaster,,NEW CALEDONIA,N,unknown,370
+340,370,Shipwreck,Sarcelle,Unknown,1976,It was believed that survivors were killed by sharks,1976.10.18,Unknown,,Sea Disaster,,NEW CALEDONIA,N,unknown,370
 341,371,Swimming,"Jacksonville, Duval County",M,1976,FATAL,1976.09.17,Unknown,,Unprovoked,Florida,USA,Y,unknown,371
-342,372,Fishing,Robberg Point,,1976,"No injury to occupants, shark buckled prop shaft",1976.04.28,Unknown,,Watercraft,Western Cape Province,SOUTH AFRICA,N,unknown,372
+342,372,Fishing,Robberg Point,Unknown,1976,"No injury to occupants, shark buckled prop shaft",1976.04.28,Unknown,,Watercraft,Western Cape Province,SOUTH AFRICA,N,unknown,372
 343,373,,Harvey Bay,F,1976,Survived,1976.02.03,Unknown,,Unprovoked,Queensland,AUSTRALIA,N,unknown,373
 344,374,Spearfishing,"Te Kaha, East coast",M,1976,FATAL,1976.01.11,Unknown,,Unprovoked,North Island,NEW ZEALAND,Y,bronze whaler,374
 345,375,Surfing,"Point Sur, Monterey County",M,1972,Legs & board bitten,1972.10.14.a,Morning,,Unprovoked,California,USA,N,unknown,375
@@ -352,19 +352,19 @@
 350,381,Snorkeling,Florida Keys,M,1967,Foot lacerated,1967.08.00.b,Unknown,20,Unprovoked,Florida,USA,N,unknown,381
 351,382,Spearfishing,Geelong,M,1967,Speared shark lacerated his arm PROVOKED INCIDENT,1967.03.20,Unknown,36,Provoked,Victoria,AUSTRALIA,N,nurse,382
 352,383,A father bathing his smallest daughter when the shark bumped her out of his arms and carried her into deep water,,F,1966,FATAL,1966.12.26,Unknown,9 months,Unprovoked,New Ireland Province,PAPUA NEW GUINEA,Y,unknown,383
-353,384,Fishing (big game),Maroubra,,1966,"No injury to occupants, hooked shark rammed boat, PROVOKED INCIDENT",1966.04.08,Unknown,,Provoked,New South Wales,AUSTRALIA,N,unknown,384
+353,384,Fishing (big game),Maroubra,Unknown,1966,"No injury to occupants, hooked shark rammed boat, PROVOKED INCIDENT",1966.04.08,Unknown,,Provoked,New South Wales,AUSTRALIA,N,unknown,384
 354,385,Skin diving,"Achutupu, a small island ner Ailigandi",M,1964,"FATAL, torso / abdomen severely bitten",1964.05.30,Unknown,13.0,Unprovoked,San Blas Islands,PANAMA,Y,unknown,385
 355,386,Body boarding,Muizenberg,M,1964,Right ankle lacerated,1964.02.11,Morning,25.0,Unprovoked,Western Cape Province,SOUTH AFRICA,N,unknown,386
 356,387,Spearfishing,55 miles south of Adelaide,M,1963,Torso & hand lacerated,1963.12.20.b,Unknown,23.0,Unprovoked,South Australia,AUSTRALIA,N,unknown,387
 357,388,Testing anti-shark cage,"8 miles south of Elliot Key, Miami-Dade County",M,1963,No injury PROVOKED INCIDENT,1963.11.16.R,Morning,,Provoked,Florida,USA,N,unknown,388
-358,389,"Boat, with 42 passengers onboard, capsized in rough seas",100 miles southeast of Manila,,1963,"Of the 42 people on board, 5 died of exposure, others drowned or were taken by sharks. Survivors were rescued after spending 3 days in the water.",1963.06.01.a,Unknown,,Sea Disaster,Luzon Island,PHILIPPINES,Y,unknown,389
+358,389,"Boat, with 42 passengers onboard, capsized in rough seas",100 miles southeast of Manila,Unknown,1963,"Of the 42 people on board, 5 died of exposure, others drowned or were taken by sharks. Survivors were rescued after spending 3 days in the water.",1963.06.01.a,Unknown,,Sea Disaster,Luzon Island,PHILIPPINES,Y,unknown,389
 359,390,Surfing on chest board (boogie board?),Yallingup,M,1963,Arm bitten,1963.04.20,Unknown,25.0,Unprovoked,Western Australia,AUSTRALIA,N,unknown,390
 360,391,Spearfishing,Paradise Reef,M,1962,Arm lacerated (minor injury),1962.11.10,Unknown,30.0,Unprovoked,KwaZulu-Natal,SOUTH AFRICA,N,unknown,391
 361,392,,Sisi  (west coast of island),M,1962,Facial lacerations,1962.10.28,Unknown,26.0,Unprovoked,Manus Island,ADMIRALTY ISLANDS,N,unknown,392
 362,394,Standing,"Manasquan, Ocean County",M,1962,Left thigh & hand bitten,1962.08.23,Unknown,24.0,Unprovoked,New Jersey,USA,N,unknown,394
 363,395,Washing,"Mouth of Suareng River, a mile from Taludig",M,1962,"FATAL, chest & leg bitten",1962.06.11.b,Midday,,Unprovoked,Madang Province,PAPUA NEW GUINEA,Y,bronze whaler,395
 364,396,Treading water,Winkelspruit,M,1962,"FATAL, tissue removed from thigh, femoral artery severed",1962.02.15,Unknown,13.0,Unprovoked,KwaZulu-Natal,SOUTH AFRICA,Y,unknown,396
-365,397,Rowing,Dicky Beach,,1962,"No injury to occupants, shark bit 3 piece from oar after they accidentally struck the shark PROVOKED INCIDENT",1962.01.10,Unknown,,Provoked,Queensland,AUSTRALIA,N,unknown,397
+365,397,Rowing,Dicky Beach,Unknown,1962,"No injury to occupants, shark bit 3 piece from oar after they accidentally struck the shark PROVOKED INCIDENT",1962.01.10,Unknown,,Provoked,Queensland,AUSTRALIA,N,unknown,397
 366,398,Dangling feet in the water,Aigua Blava,F,1962,Feet severed,1962.01.02,Unknown,,Unprovoked,Catalonia,SPAIN,N,unknown,398
 367,399,Bathing,Praia Sepulveda,M,1961,His left leg was severely bitten,1961.12.27,Unknown,20.0,Unprovoked,Gaza,MOZAMBIQUE,N,unknown,399
 368,400,"Surfing, pushing board ashore",Noosa Heads,M,1961,"FATAL, right wrist and hand bitten, left leg severed above knee",1961.12.19,Morning,22.0,Unprovoked,Queensland,AUSTRALIA,Y,unknown,400
@@ -373,36 +373,36 @@
 371,404,Free diving,"Leeward side of island, directly in back of Mid-Pac barrel storage area",M,1961,Right elbow bitten,1961.03.14,Unknown,33.0,Unprovoked,Wake Island (EnenKio),NORTH PACIFIC OCEAN,N,reef,404
 372,405,"Speared a grouper, saw shark but it came for him instead of the fish so he fired spear into shark’s mouth. Then shark took grouper but unable to swallow because of the spear in its mouth.",Off Broughton Island near Port Stephens,M,1960,Minor injuries to hand,1960.04.10,Morning,,Unprovoked,New South Wales,AUSTRALIA,N,bronze whaler,405
 373,406,Treading water,"Off Boca Raton Hotel & Club, Boca Raton, Palm Beach County",M,1960,"Ankle bitten, hand injured while striking shark",1960.04.00.b,Morning,42.0,Unprovoked,Florida,USA,N,unknown,406
-374,407,Setting crayfish pots,Eaglehawk Neck,,1960,"No injury to occupant, shark rammed boat",1960.01.16,Morning,,Watercraft,Tasmania,AUSTRALIA,N,unknown,407
+374,407,Setting crayfish pots,Eaglehawk Neck,Unknown,1960,"No injury to occupant, shark rammed boat",1960.01.16,Morning,,Watercraft,Tasmania,AUSTRALIA,N,unknown,407
 375,408,Wading,Kei River Mouth,F,1960,"Heel lacerated, hand lacerated & abraded",1960.00.00.c,Morning,,Unprovoked,Eastern Cape Province,SOUTH AFRICA,N,unknown,408
 376,409,Spearfishing on Scuba,"Panama City, Bay County",M,1959,"FATAL, disappeared, dive gear & clothing found with teethmarks, presumed taken by a shark",1959.08.20,Unknown,26.0,Unprovoked,Florida,USA,Y,unknown,409
 377,410,Lifeboat capsized,"Mouth of Langoyan River, Davao City",M,1959,"FATAL, body not recovered",1959.04.05,Unknown,20.0,Unprovoked,Mindanao,PHILIPPINES,Y,unknown,410
 378,411,Fell into water while attempting to boat a swordfish,Margarita Island,M,1959,Left arm bitten,1959.03.00,Unknown,,Unprovoked,Nueva Esparta,VENEZUELA,N,unknown,411
-379,412,,Mouth of Devi River at Machgaon,,1959,"5 people killed by sharks, 30 others injured",1959.01.00,Unknown,,Unprovoked,Orissa,INDIA,Y,unknown,412
+379,412,,Mouth of Devi River at Machgaon,Unknown,1959,"5 people killed by sharks, 30 others injured",1959.01.00,Unknown,,Unprovoked,Orissa,INDIA,Y,unknown,412
 380,413,,"Baker's Haulover, Miami Beach",M,1958,No injury,1958.11.05,Unknown,60.0,Unprovoked,Florida,USA,N,unknown,413
 381,415,Fishing,North Auckland,M,1956,Bitten in cockpit of boat by shark caught 30 minutes earlier PROVOKED INCIDENT,1956.12.24,Unknown,70.0,Provoked,North Island,NEW ZEALAND,N,unknown,415
 382,416,Fishing,Port Moresby,M,1956,FATAL,1956.10.20,Unknown,,Unprovoked,,PAPUA NEW GUINEA,Y,unknown,416
-383,417,Fishing,between Filfla Island and Wied iz-Zurrieq,,1956,"No injury to occupants, but Emmanuel later died of shock in hospital",1956.08.00.e,Unknown,,Boat,Congreve Channel,MALTA,N,unknown,417
+383,417,Fishing,between Filfla Island and Wied iz-Zurrieq,Unknown,1956,"No injury to occupants, but Emmanuel later died of shock in hospital",1956.08.00.e,Unknown,,Boat,Congreve Channel,MALTA,N,unknown,417
 384,418,Flying Tiger transport plane went down with 5 men onboard,Between Wake & Johnston Islands,M,1955,FATAL,1955.11.00,Unknown,,Sea Disaster,1000 miles west of Hawaii,NORTH PACIFIC OCEAN,Y,unknown,418
 385,419,Spearfishing,Southwest of Cartegena,M,1955,Swim fin & foot bitten,1955.00.00.e,Unknown,12.0,Unprovoked,Isles del Rosario,COLUMBIA,N,unknown,419
 386,420,"American freighter Mormackite, bound from Buenos Aires for Baltimore, capsized & sank in heavy seas",150 miles off Cape Henry,M,1954,Rescue aircraft saw bodies in the water being bitten by sharks. One survivor saw a shark take off a man’s leg & another reported that the second cook was killed by a shark,1954.12.04,Unknown,,Sea Disaster,Virginia,USA,Y,unknown,420
 387,421,"Tuna fishing, standing on stern platform that was submerged by waves",,M,1954,4 lacerations on dorsum of right foot,1954.08.12.a,Unknown,34.0,Unprovoked,Galapagos Islands,ECUADOR,N,unknown,421
 388,422,Spearfishing,Naghir Island,M,1954,Severe laceration to arm,1954.02.27,Unknown,30,Unprovoked,Torres Strait,AUSTRALIA,N,unknown,422
 389,423,Body surfing & treading water,"Pacific Grove, Monterey Bay, Monterey County",M,1952,"FATAL, leg lacerated",1952.08.04,Unknown,17.0,Unprovoked,California,USA,Y,unknown,423
-390,424,Swimming,Jervis Bay,,1950,Legs nipped,1951.00.00,Unknown,,Unprovoked,New South Wales,AUSTRALIA,N,wobbegong,424
+390,424,Swimming,Jervis Bay,Unknown,1950,Legs nipped,1951.00.00,Unknown,,Unprovoked,New South Wales,AUSTRALIA,N,wobbegong,424
 391,425,"Fishing, sitting in stern of small boat, feet dangling in the water",Off Port Elizabeth breakwater,M,1950,"Shark bit foot, removing 2 toes",1950.05.01,Unknown,,Unprovoked,Eastern Cape Province,SOUTH AFRICA,N,unknown,425
 392,426,Swimming,Yorkey’s Knob Beach near Cairns,M,1949,"FATAL, right leg, thigh & fingers lacerated",1949.11.12,Unknown,34.0,Unprovoked,Queensland,AUSTRALIA,Y,unknown,426
 393,428,Spearfishing,"Orava (Aravo) Islet , near Kieta.",M,1949,"FATAL, Nearly bitten in two through loin.",1949.00.00.e,Unknown,18.0,Unprovoked,Bougainville (North Solomons),PAPUA NEW GUINEA,Y,unknown,428
 394,429,Bathing or washing,,F,1948,"FATAL, left arm & left buttock severed",1948.09.17.R,Unknown,60.0,Unprovoked,Bandar Ma’shur sea inlet,IRAN,Y,unknown,429
-395,430,Fishing,False Bay,,1948,"No injury to occupants, boat holed by shark",1948.00.00.c,Unknown,,Watercraft,Western Cape Province,SOUTH AFRICA,N,unknown,430
+395,430,Fishing,False Bay,Unknown,1948,"No injury to occupants, boat holed by shark",1948.00.00.c,Unknown,,Watercraft,Western Cape Province,SOUTH AFRICA,N,unknown,430
 396,431,Swimming,"Maria River, Port Macquarie, 12 miles from river mouth",M,1947,"FATAL, leg severed at knee",1947.11.14.b,Unknown,12.0,Unprovoked,New South Wales,AUSTRALIA,Y,unknown,431
 397,432,Diving,Darwin Harbour,M,1947,Suit ripped,1947.08.04,Unknown,,Unprovoked,Northern Territory,AUSTRALIA,N,unknown,432
 398,433,Surfing,Palm Beach,M,1947,"No injury, board scraped by shark",1947.04.20,Unknown,17,Unprovoked,New South Wales,AUSTRALIA,N,unknown,433
-399,434,,,,1944,Some killed & others severely injured,1944.05.24.R,Unknown,,Unprovoked,Lake Nicaragua (fresh water),NICARAGUA,Y,bull,434
+399,434,,,Unknown,1944,Some killed & others severely injured,1944.05.24.R,Unknown,,Unprovoked,Lake Nicaragua (fresh water),NICARAGUA,Y,bull,434
 400,435,B-24 aircraft crashed  into the sea,,M,1944,FATAL,1944.01.04,Unknown,,Sea Disaster,Adriatic Sea,ITALY,Y,unknown,435
 401,436,The Cuban freighter Libertad was torpedoed and sunk by the German submarine U-129,Off Charleston,M,1943,"Of the 18 crew who survived the sinking, 10 were taken by sharks. Cabarrocas was bitten but survived",1944.00.00.a,Unknown,,Sea Disaster,South Carolina,USA,Y,unknown,436
 402,437,Swimming,Guadalcanal,M,1943,Arm severed,1943.01.26,Unknown,,Unprovoked,,SOLOMON ISLANDS,N,unknown,437
-403,438,,Maroubra,,1939,Boat bitten by gaffed shark PROVOKED INCIDENT,1939.12.14,Unknown,,Provoked,New South Wales,AUSTRALIA,N,unknown,438
+403,438,,Maroubra,Unknown,1939,Boat bitten by gaffed shark PROVOKED INCIDENT,1939.12.14,Unknown,,Provoked,New South Wales,AUSTRALIA,N,unknown,438
 404,439,Fishing,Between Wynnum & St. Helena Island,M,1938,Laceration to left foot & ankle by netted shark PROVOKED INCIDENT,1939.00.00.a,Unknown,18,Provoked,Queensland,AUSTRALIA,N,tiger,439
 405,440,"Diving from the lugger San, operated by the Protector of the Aborigines","Mabuiag Island, between New Guinea & Australia",M,1937,"Head, neck & shoulder bitten (In 1918, he was also bitten by a shark off Cairns)",1937.09.11,Morning,38.0,Unprovoked,Torres Strait,AUSTRALIA,N,tiger,440
 406,441,Fishing,Galveston,M,1937,Leg nipped by hooked shark PROVOKED INCIDENT,1937.06.15.b,Unknown,,Provoked,Texas,USA,N,unknown,441
@@ -410,7 +410,7 @@
 408,444,Free diving for trochus,Near Boydong Cay,M,1933,"FATAL, right buttock & thigh bitten",1934.01.27,Unknown,,Unprovoked,Torres Strait,AUSTRALIA,Y,tiger,444
 409,445,Swimming,Bondi,M,1929,"FATAL, right thigh bitten, femoral artery severed",1929.02.18,Unknown,39.0,Unprovoked,New South Wales,AUSTRALIA,Y,unknown,445
 410,446,Watercraft,Viareggio,M,1928,"No injury, shark approached the boat, he hit it with and oar and fell into the sea PROVOKED INCIDENT",1928.08.24.R,Unknown,,Provoked,Tuscany,ITALY,N,unknown,446
-411,448,Fishing,Sisargas Islands,,1924,"No injury to occupants, shark bit boat",1924.04.20,Unknown,,Watercraft,Galica,SPAIN,N,unknown,448
+411,448,Fishing,Sisargas Islands,Unknown,1924,"No injury to occupants, shark bit boat",1924.04.20,Unknown,,Watercraft,Galica,SPAIN,N,unknown,448
 412,449,Diving for pearl,Great Barrier Reef,M,1923,non-fatal,1923.10.16,Unknown,,Unprovoked,Queensland,AUSTRALIA,N,unknown,449
 413,450,Fishing,"Sea Bright, Monmouth County",M,1923,No injury to occupant Shark struck boat,1923.01.27.a,Unknown,,Watercraft,New Jersey,USA,N,unknown,450
 414,452,Dived into a school of baitfish,Marine Dock,M,1921,"FATAL, large wound on thigh",1921.01.11.R,Unknown,,Unprovoked,Cape Haitien,HAITI,Y,unknown,452
@@ -427,15 +427,15 @@
 425,463,Fishing,30 miles south of Lynn,M,1897,FATAL,1897.06.09,Unknown,,Unprovoked,Massachusetts,USA,Y,unknown,463
 426,464,Diving for coins,,M,1895,FATAL,1895.11.16,Unknown,,Unprovoked,Aden,YEMEN,Y,unknown,464
 427,465,Fell into the water,Bowen,M,1889,FATAL,1890.00.00.a,Unknown,,Unprovoked,Queensland,AUSTRALIA,Y,unknown,465
-428,466,Fishing,Hillsborough Bay,,1889,No injury to occupants. Gaffed shark capsized boat PROVOKED INCIDENT,1889.07.19,Unknown,,Provoked,Florida,USA,N,unknown,466
+428,466,Fishing,Hillsborough Bay,Unknown,1889,No injury to occupants. Gaffed shark capsized boat PROVOKED INCIDENT,1889.07.19,Unknown,,Provoked,Florida,USA,N,unknown,466
 429,467,Oystering,Rothesay Bay,M,1886,Wrist bitten,1886.06.02,Unknown,,Unprovoked,Queensland,AUSTRALIA,N,unknown,467
 430,468,Fishing,Lake Macquarie,M,1882,FATAL,1882.05.14,Unknown,,Unprovoked,New South Wales,AUSTRALIA,Y,unknown,468
 431,469,Swimming,"Petrie Bight, Brisbane River",M,1880,"Feet bitten, surgically amputated FATAL",1881.00.00.b,Unknown,12,Unprovoked,Queensland,AUSTRALIA,Y,bull,469
-432,470,Fishing,"Chowder Bay, Sydney",,1880,"No injury to occupants, shark rammed boat",1880.05.02.b,Unknown,,Watercraft,New South Wales,AUSTRALIA,N,unknown,470
+432,470,Fishing,"Chowder Bay, Sydney",Unknown,1880,"No injury to occupants, shark rammed boat",1880.05.02.b,Unknown,,Watercraft,New South Wales,AUSTRALIA,N,unknown,470
 433,471,Standing,Napier,M,1879,FATAL,1879.08.30.R,Unknown,19,Unprovoked,North Island,NEW ZEALAND,Y,unknown,471
 434,472,Jumped overboard after murdering 2 shipmates,,M,1878,FATAL,1878.11.17,Unknown,,Unprovoked,,,Y,unknown,472
 435,473,Shark fishing,Long Island,M,1871,Hand injured PROVOKED INCIDENT,1871.12.11.R,Unknown,,Provoked,New York,USA,N,unknown,473
-436,474,Fishing,Belfast (now Port Fairy),,1868,"No injury to occupants, shark's teeth embedded in keel",1868.05.13,Unknown,,Sea Disaster,South Australia,AUSTRALIA,N,unknown,474
+436,474,Fishing,Belfast (now Port Fairy),Unknown,1868,"No injury to occupants, shark's teeth embedded in keel",1868.05.13,Unknown,,Sea Disaster,South Australia,AUSTRALIA,N,unknown,474
 437,475,Swimming,"Soldier's Point, Brick Bay, Auckland",M,1862,Right thigh and left foot severely bitten,1863.00.00.R2,Morning,28,Unprovoked,North Island,NEW ZEALAND,N,unknown,475
 438,476,boat capsized,Sydney,M,1849,Torso bitten but may have been postmortem,1849.06.08.b,Unknown,,Invalid,New South Wales,AUSTRALIA,U,unknown,476
 439,477,Swimming,Brisbane River,M,1847,Thigh & calf bitten,1848.07.17.R,Unknown,,Unprovoked,Queensland,AUSTRALIA,N,unknown,477
@@ -447,7 +447,7 @@
 445,483,Bathing,,M,1700,FATAL,1700.00.00.c,Unknown,,Unprovoked,,BARBADOS,Y,unknown,483
 446,484,Shipwreck,"Krater found during excavations at Lacco Ameno, Ischia",M,,Depicts shipwrecked sailors  attacked by a shark/s,336BC,Unknown,,Sea Disaster,Tyrrhenian Sea,ITALY,Y,unknown,484
 447,485,Swimming to canoe,Simbang,M,,FATAL,ND-0149,Unknown,,Unprovoked,Morobe Province,PAPUA NEW GUINEA,Y,unknown,485
-448,486,Fishing,Off Inhambane,,,"No injury to occupants, shark bumped boat",ND-0109,Unknown,,Watercraft,Inhambane Province,MOZAMBIQUE,N,unknown,486
+448,486,Fishing,Off Inhambane,Unknown,,"No injury to occupants, shark bumped boat",ND-0109,Unknown,,Watercraft,Inhambane Province,MOZAMBIQUE,N,unknown,486
 449,487,Attempting to drive shark from area,"Hokai, Malakula",M,,Speared shark broke outrigger of canoe throwing man into the water & shark bit his buttock PROVOKED INCIDENT,ND.0091,Unknown,,Provoked,Malampa Province,VANUATU,N,hammerhead,487
 450,488,Spearfishing,Paget Parish,M,,Shoulder abraded by skin of shark,ND.0062,Unknown,,Unprovoked,Paget,BERMUDA,N,unknown,488
 451,489,,Great Barrier Reef,M,,FATAL,ND.0022,Unknown,,Unprovoked,Queensland,AUSTRALIA,Y,unknown,489
@@ -473,7 +473,7 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 470,509,Surfing,"Mayport Naval Station Beach, Duval County",M,2016,Lacerations to right foot and ankle,2016.11.28,Unknown,41.0,Unprovoked,Florida,USA,N,unknown,509
 471,510,Surfing,"New Smyrna Beach, Volusia County",M,2016,Lacerations to right foot,2016.09.01,Unknown,25.0,Unprovoked,Florida,USA,N,bull,510
 472,511,Swimming,,M,2016,Lacerations to leg,2016.08.04,Unknown,72.0,Unprovoked,Hong Kong,CHINA,N,unknown,511
-473,512,Fishing,8 miles off Mobile,,2016,"No injury, shark bit trolling motor",2016.07.23.a,Unknown,,Watercraft,Alabama,USA,N,tiger,512
+473,512,Fishing,8 miles off Mobile,Unknown,2016,"No injury, shark bit trolling motor",2016.07.23.a,Unknown,,Watercraft,Alabama,USA,N,tiger,512
 474,513,,"New Smyrna Beach, Volusia County",F,2016,Minor injury to toes,2016.07.17,Morning,11.0,Unprovoked,Florida,USA,N,unknown,513
 475,514,Spearfishing,Miall Island,M,2016,Lacerations to arms & leg,2016.01.11.R,Morning,31.0,Unprovoked,Queensland,AUSTRALIA,N,unknown,514
 476,515,Spearfishing,Bald Island,M,2015,Minor injury,2015.11.01.b,Unknown,50.0,Unprovoked,Western Australia,AUSTRALIA,N,unknown,515
@@ -491,7 +491,7 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 488,527,Surfing,"New Smyrna Beach, Volusia County",M,2012,Bitten on calf,2012.03.15,Unknown,17,Unprovoked,Florida,USA,N,unknown,527
 489,528,Kite Surfing,"Playalinda Beach, Brevard County",M,2012,Lacerations to left calf,2012.03.06.a,Unknown,19,Unprovoked,Florida,USA,N,unknown,528
 490,529,Attempting to Kite surf from Egypt to Saudi Arabia,Off Duba,M,2012,Harassed by sharks but not injured by them,2012.03.05,Unknown,42,Invalid,Tabuk Province,SAUDI ARABIA,U,unknown,529
-491,530,Fishing,Strandfontein,,2012,"No injury to occupants, boat damaged",2012.02.26,Unknown,,Watercraft,Western Cape Province,SOUTH AFRICA,N,unknown,530
+491,530,Fishing,Strandfontein,Unknown,2012,"No injury to occupants, boat damaged",2012.02.26,Unknown,,Watercraft,Western Cape Province,SOUTH AFRICA,N,unknown,530
 492,531,Surfing,"Lincoln City, Lincoln County",M,2012,"No injury, surfboard damaged",2012.01.18.a,Unknown,53,Unprovoked,Oregon,USA,N,unknown,531
 493,532,Surfing,Tabanan,M,2011,Lacerations to right hand,2011.12.05,Unknown,18,Unprovoked,Bali,INDONESIA,N,unknown,532
 494,533,Swimming or Snorkeling,Anse Lazio,M,2011,FATAL,2011.08.16.c,Unknown,30,Unprovoked,Praslin,SEYCHELLES,Y,bull,533
@@ -514,8 +514,8 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 511,552,Wading,"New Smyrna Beach, Volusia County",M,2006,Dorsum of left foot bitten,2006.07.12,Unknown,40,Unprovoked,Florida,USA,N,unknown,552
 512,553,Swimming,"Howard E. Futch Memorial Park at Paradise Beach, Brevard County",M,2005,Foot bitten,2005.06.21,Unknown,20,Unprovoked,Florida,USA,N,unknown,553
 513,554,Wading,"Mustang Island, Corpus Christi",M,2005,Two 2-inch lacerations on right foot,2005.06.05,Morning,6,Unprovoked,Texas,USA,N,unknown,554
-514,555,,Crookhaven,,2005,Shark-bitten surfboard found adrift,2005.05.02,Unknown,,Unprovoked,New South Wales,AUSTRALIA,N,unknown,555
-515,556,Surfing,"Bunkers, Humboldt Bay, Eureka, Humboldt County",lli,2004,"Lacerations to hand, knee & thigh",2004.11.26,Unknown,38.0,Unprovoked,California,USA,N,unknown,556
+514,555,,Crookhaven,Unknown,2005,Shark-bitten surfboard found adrift,2005.05.02,Unknown,,Unprovoked,New South Wales,AUSTRALIA,N,unknown,555
+515,556,Surfing,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Unknown,2004,"Lacerations to hand, knee & thigh",2004.11.26,Unknown,38.0,Unprovoked,California,USA,N,unknown,556
 516,557,Jumping,"North of Apache Pier, Myrtle Beach, Horry County",F,2004,Left knee & leg bitten,2004.09.10,Unknown,17.0,Unprovoked,South Carolina,USA,N,unknown,557
 517,558,Wading,"Gulf Shores Beach, Baldwin County",M,2004,Right foot lacerated,2004.07.10,Unknown,7.0,Unprovoked,Alabama,USA,N,unknown,558
 518,559,Five men on makeshift raft after their 10 m fishing boat  capsized and sank in rough seas. Survivors rescued after  7.5 hours in the water,30 nautical miles offshore,M,2004,"Bitten on feet, legs, back & abdomen but survived.  Survivors rescued after  7.5 hours in the water",2004.04.26,Unknown,,Unprovoked,Nuku'alofa,TONGA,Y,unknown,559
@@ -532,7 +532,7 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 529,570,Swimming,"Vero Beach, Indian River County",M,2000,Minor injury to arm and hand,2000.09.12,Evening,8,Unprovoked,Florida,USA,N,unknown,570
 530,571,Surfing,Pic du Diable,M,2000,Left arm bitten,2000.09.08.c,Evening,27.0,Unprovoked,Saint-Pierre,REUNION,N,tiger,571
 531,572,Surfing,"Nahoon, East London",M,2000,Hand lacerated,2000.07.17,Unknown,15.0,Unprovoked,Eastern Cape Province,SOUTH AFRICA,N,unknown,572
-532,573,Swimming,"Coco Beach, Dar-es-Salaam",,2000,FATAL,2000.07.02.b,Unknown,,Unprovoked,,TANZANIA,Y,zambesi,573
+532,573,Swimming,"Coco Beach, Dar-es-Salaam",Unknown,2000,FATAL,2000.07.02.b,Unknown,,Unprovoked,,TANZANIA,Y,zambesi,573
 533,574,Standing,"Long Island near Madang, about 500 km (310 miles) north of the South Pacific nation's capital of Port Moresby",M,2000,Left leg & ankle bitten,2000.05.13,Unknown,9.0,Unprovoked,Madang Province,PAPUA NEW GUINEA,N,unknown,574
 534,575,Fishing for tarpon,"Boca Grande, Lee County",M,2000,No injury to occupant; shark bit propeller,2000.01.28.R,Unknown,,Watercraft,Florida,USA,N,hammerhead,575
 535,576,Fishing for tuna,460 miles off Iwakuni,M,1998,PROVOKED INCIDENT    Knee bitten by shark trapped in net,1998.11.11,Unknown,52,Provoked,Southern Japan,JAPAN,N,unknown,576
@@ -542,10 +542,10 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 539,580,Swimming,Mona Vale,M,1996,Puncture wounds on upper left thigh,1996.05.07,Unknown,11,Unprovoked,New South Wales,AUSTRALIA,N,wobbegong,580
 540,581,Surfing,Paiva,M,1994,Right thigh bitten,1994.12.18,Unknown,,Unprovoked,Pernambuco,BRAZIL,N,unknown,581
 541,582,Surfing,Waipo,M,1993,FATAL,1994.00.00.b,Unknown,,Unprovoked,Hawaii,USA,Y,tiger,582
-542,583,Surfing,"Mouth of Wallua River, Kaua'i",,1993,Serious leg wounds,1993.10.26,Unknown,,Unprovoked,Hawaii,USA,N,tiger,583
+542,583,Surfing,"Mouth of Wallua River, Kaua'i",Unknown,1993,Serious leg wounds,1993.10.26,Unknown,,Unprovoked,Hawaii,USA,N,tiger,583
 543,584,Free diving for abalone (ascending),"Abalone Point, Westport Union Landing, Mendocino County",M,1993,Severe bites to head & shoulder,1993.08.15.a,Unknown,39.0,Unprovoked,California,USA,N,unknown,584
 544,585,,Off Dominican Republic,M,1993,"No injury to occupants. Sharks, attracted to offal from slaughtered dolphin, attacked & damaged their canoe",1993.01.23,Unknown,32 & 30,Watercraft,,CARIBBEAN SEA,N,unknown,585
-545,586,Preparing to fish for jack-mackerel,"1.5 km north of Igata-cho, 60 km south of Matsyama",,1992,"No inujury to occupant. Shark bit boat repeatedly, leaving  2 teeth in the bottom keel of the boat",1992.06.28.a,Unknown,,Watercraft,Ehime Prefecture,JAPAN,N,unknown,586
+545,586,Preparing to fish for jack-mackerel,"1.5 km north of Igata-cho, 60 km south of Matsyama",Unknown,1992,"No inujury to occupant. Shark bit boat repeatedly, leaving  2 teeth in the bottom keel of the boat",1992.06.28.a,Unknown,,Watercraft,Ehime Prefecture,JAPAN,N,unknown,586
 546,587,Fishing,Mahebourg,M,1992,Survived,1992.01.23,Unknown,,Unprovoked,,MAURITIUS,N,reef,587
 547,588,Swimming from makeshift raft  to life vest after fishing boat sank,150 miles from Crystal River,M,1991,Punctures in lower abdomen & groin,1991.07.30,Unknown,42,Unprovoked,Florida,USA,N,blacktip,588
 548,589,Surfing (or sailboarding),Pelican Banks near Gladstone,M,1991,Survived,1991.01.19,Unknown,22,Unprovoked,Queensland,AUSTRALIA,N,unknown,589
@@ -561,11 +561,11 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 558,601,Steinhart Aquarium,San Francisco,M,1984,Head mouthed by captive shark PROVOKED INCIDENT,1984.01.05,Unknown,,Provoked,California,USA,N,unknown,601
 559,602,Surfing,"Palm Beach, Palm Beach County",M,1982,Elbow bitten,1982.06.13,Unknown,16.0,Unprovoked,Florida,USA,N,unknown,602
 560,603,Swimming,"St. Petersburg Beach, Pinellas County",F,1981,"Foot bitten between arch & big toe, no stitches required",1981.08.10.a,Unknown,16.0,Unprovoked,Florida,USA,N,sand,603
-561,604,Diving,Cabo Frio,,1981,,1981.03.24,Unknown,,Unprovoked,Rio de Janeiro,BRAZIL,U,unknown,604
+561,604,Diving,Cabo Frio,Unknown,1981,,1981.03.24,Unknown,,Unprovoked,Rio de Janeiro,BRAZIL,U,unknown,604
 562,605,"Free diving / spearfishing,",,M,1981,Minor injury,1981.01.01,Unknown,,Unprovoked,Pagasitikos Gulf,GREECE,N,unknown,605
 563,606,Surfing,Glenashley,M,1978,"Left leg, ankle & foot bitten",1978.02.28,Unknown,17.0,Unprovoked,KwaZulu-Natal,SOUTH AFRICA,N,blacktip,606
 564,607,"Their 9 m launch was run down by a 25,000-ton Japanese freighter  on the night of 3-11-1977 & they drifted, clinging to an icebox for 2 days",Near Moreton Island in Moreton Bay,M,1977,"His feet were bitten by sharks, but he was rescued by a charter boat that arrived on the scene just an hour and 15 minutes after the sharks first appeared, too late to save the lives of Hayes and Beaver",1977.04.21,Unknown,32,Sea Disaster,Queensland,AUSTRALIA,N,unknown,607
-565,608,Fishing for white shark,Macassar,,1976,"No injury to occupants. Hooked shark bit boat's transom, PROVOKED INCIDENT",1976.11.25,Unknown,,Provoked,Western Cape Province,SOUTH AFRICA,N,unknown,608
+565,608,Fishing for white shark,Macassar,Unknown,1976,"No injury to occupants. Hooked shark bit boat's transom, PROVOKED INCIDENT",1976.11.25,Unknown,,Provoked,Western Cape Province,SOUTH AFRICA,N,unknown,608
 566,609,Standing,"Daytona Beach, Volusia County",M,1974,Laceration to foot,1974.21.21,Unknown,24,Unprovoked,Florida,USA,N,unknown,609
 567,610,Surfing,"North of Point Sur, Monterey County",M,1974,"Thigh, lower back and surfboard bitten",1974.12.10,Morning,17.0,Unprovoked,California,USA,N,unknown,610
 568,611,Swimming,Amanzimtoti,M,1974,Knee & calf lacerated,1974.01.13,Unknown,33.0,Unprovoked,KwaZulu-Natal,SOUTH AFRICA,N,unknown,611
@@ -588,7 +588,7 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 585,628,Spearfishing,"Taibaisa Passage, Gau Island",M,1963,Left arm bitten,1963.02.27,Morning,28.0,Unprovoked,Lomaiviti  Island Group,FIJI,N,unknown,628
 586,629,Surf fishing in waist-deep water,"Off Andy Bowie Park, Padre Island, near Port Isabel",M,1962,"FATAL, lower right leg bitten",1962.08.26,Unknown,40.0,Unprovoked,Texas,USA,Y,unknown,629
 587,630,Spearfishing,"Pekinberui Village, Tabar Island",M,1962,"FATAL, right thigh severely bitten, right ankle lacerated",1962.08.19,Unknown,(adult),Unprovoked,"New Ireland Province, Bismarck Archipelago",PAPUA NEW GUINEA,Y,unknown,630
-588,631,Spearfishing,"Long Reef, North Manly",,1962,Speared shark bit gunwale of boat as it was being hauled onboard PROVOKED INCIDENT,1962.01.15,Unknown,,Provoked,New South Wales,AUSTRALIA,N,nurse,631
+588,631,Spearfishing,"Long Reef, North Manly",Unknown,1962,Speared shark bit gunwale of boat as it was being hauled onboard PROVOKED INCIDENT,1962.01.15,Unknown,,Provoked,New South Wales,AUSTRALIA,N,nurse,631
 589,632,Swimming,"Opatija, northwestern coast of Rijeka Bay",M,1961,"FATAL, hand severed & legs bitten",1961.10.00.a,Unknown,19.0,Unprovoked,Primorje-Gorski Kotar County,CROATIA,Y,unknown,632
 590,633,Walking in chest-deep water,"Laguna Beach, Bay County",M,1961,Middle finger of left hand & right forearm lacerated,1961.05.21,Morning,52.0,Unprovoked,Florida,USA,N,hammerhead,633
 591,634,Cleaning a tank,"Fairmount Park Aquarium, Philadelphia",M,1961,Thumb lacerated by captive shark PROVOKED INCIDENT,1961.03.07,Unknown,30,Provoked,Pennsylvania,USA,N,unknown,634
@@ -599,48 +599,48 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 596,640,Treading water,Port Shepstone,M,1959,Leg severed below knee,1959.02.06,Unknown,14.0,Unprovoked,KwaZulu-Natal,SOUTH AFRICA,N,unknown,640
 597,641,"Spearfishing, had fish on his spear",North of Walkers Cay,M,1958,"No injury, shark went for diver's leg & missed, diver hit shark on head with speargun & shark bit speargun",1958.07.02,Morning,36.0,Unprovoked,Abaco Islands,BAHAMAS,N,tiger,641
 598,642,Fishing,Yule Island,M,1956,"Leg severed, but survived",1956.08.00.d,Unknown,,Unprovoked,Central Province,PAPUA NEW GUINEA,N,unknown,642
-599,643,Fishing,Plettenberg Bay,,1956,"No injury, sharks bit propellers, etc",1956.06.22,Unknown,,Watercraft,Western Cape Province,SOUTH AFRICA,N,unknown,643
+599,643,Fishing,Plettenberg Bay,Unknown,1956,"No injury, sharks bit propellers, etc",1956.06.22,Unknown,,Watercraft,Western Cape Province,SOUTH AFRICA,N,unknown,643
 600,646,Standing in knee-deep water,,M,1955,FATAL,1955.00.00.f,Unknown,16.0,Unprovoked,18S / 50E,MADAGASCAR,Y,unknown,646
 601,647,Dived overboard & was swimming near stern of trawler,Near tuna cannery in Pago Pago Harbor,M,1954,FATAL,1955.00.00.b,Unknown,27.0,Unprovoked,Tutuila Island,AMERICAN SAMOA,Y,unknown,647
 602,648,Swimming,Between Punta Grossa & Koper,M,1954,FATAL,1954.07.28,Evening,,Unprovoked,Slovenia,THE BALKANS,Y,unknown,648
 603,650,Swimming,"Volupai, Talasea",M,1954,Leg & abdomen lacerated,1954.00.00.c,Unknown,12.0,Unprovoked,West New Britain Province,PAPUA NEW GUINEA,N,unknown,650
 604,651,Fishing for lobsters,"Fourchu, Cape Breton Island",M,1953,Burns drowned as result of attack on boat,1953.07.15,Unknown,,Watercraft,Nova Scotia,CANADA,N,unknown,651
-605,653,Fishing for trout,"Panacea, Wakulla County",,1952,No injury to occupants. Shark chasing fish leapt into skiff & flopped out,1952.08.06,Unknown,,Watercraft,Florida,USA,N,hammerhead,653
+605,653,Fishing for trout,"Panacea, Wakulla County",Unknown,1952,No injury to occupants. Shark chasing fish leapt into skiff & flopped out,1952.08.06,Unknown,,Watercraft,Florida,USA,N,hammerhead,653
 606,654,"Spearfishing, speared a small shark",Port Louis,M,1952,Right foot lacerated by a larger shark. Lost several toes  PROVOKED INCIDENT,1952.04.00,Unknown,,Provoked,Port Louis Province,MAURITIUS,N,unknown,654
 607,655,Fell overboard,In Los Angeles – Honolulu yacht race,M,1951,"Molested by shark that nibbled his bare feet,  rescued 30 hours later.",1951.08.00,Unknown,40,Unprovoked,,PACIFIC OCEAN,N,unknown,655
-608,656,Fishing,Streaky Bay,,1950,No injury to occupants,1950.08.06,Unknown,,Watercraft,South Australia,AUSTRALIA,N,unknown,656
+608,656,Fishing,Streaky Bay,Unknown,1950,No injury to occupants,1950.08.06,Unknown,,Watercraft,South Australia,AUSTRALIA,N,unknown,656
 609,657,Bathing,300 yards west of mouth of the Chagres River,M,1950,Foot & hand severed,1950.00.00.h,Unknown,,Unprovoked,Canal Zone,PANAMA,N,unknown,657
-610,659,Fishing,Coogee,,1947,"No injury to occupants, shark bumped & lifted dinghy",1947.07.00,Unknown,,Watercraft,New South Wales,AUSTRALIA,N,tiger,659
+610,659,Fishing,Coogee,Unknown,1947,"No injury to occupants, shark bumped & lifted dinghy",1947.07.00,Unknown,,Watercraft,New South Wales,AUSTRALIA,N,tiger,659
 611,660,Swimming,"Kilindini Harbor, Mombasa",M,1947,Knee grazed,1947.06.27,Unknown,,Unprovoked,Coast Province,KENYA,N,unknown,660
 612,661,Attempting to ride a shark,Cable Beach,M,1947,Arm bitten PROVOKED INCIDENT,1947.03.09,Unknown,,Provoked,New Providence Island,BAHAMAS,N,unknown,661
 613,662,Treading water,"Country Club Beach, Durban",M,1947,Flexed left leg lacerated,1947.02.00,Unknown,18.0,Unprovoked,KwaZulu-Natal,SOUTH AFRICA,N,unknown,662
 614,663,Swimming,"Trinity Beach, Cairns",M,1946,FATAL,1946.06.28,Unknown,17.0,Unprovoked,Queensland,AUSTRALIA,Y,unknown,663
 615,664,American minesweeper USS YMS-472 foundered in a typhoon - swimming to shore,,M,1945,Laceration to arm,1946.00.00.a,Unknown,20,Sea Disaster,,OKINAWA,N,unknown,664
 616,665,Diving,,M,1945,Hand severed,1945.03.06,Unknown,,Unprovoked,,JAMAICA,N,unknown,665
-617,666,Fishing,Tewantin,,1944,No injury to occupants; shark bit dinghy leaving tooth fragments in  its woodwork,1944.10.25.a,Unknown,,Watercraft,Queensland,AUSTRALIA,N,unknown,666
+617,666,Fishing,Tewantin,Unknown,1944,No injury to occupants; shark bit dinghy leaving tooth fragments in  its woodwork,1944.10.25.a,Unknown,,Watercraft,Queensland,AUSTRALIA,N,unknown,666
 618,667,Swimming,"Villa del Mar Beach, Veracruz",M,1943,"No injury, a shark made a threat display",1943.07.18,Midday,68.0,Invalid,Veracruz,MEXICO,U,unknown,667
 619,668,Swimming,Bella Vista Beach,M,1942,"FATAL, body not recovered",1942.00.00.c,Unknown,,Unprovoked,Panama City,PANAMA,Y,unknown,668
 620,669,SS Ethel Skakel foundered in Central America Hurricane of 1941,125 nm north of Aruba,M,1941,Leg lacerated FATAL,1941.11.24,Unknown,,Unprovoked,,CARIBBEAN SEA,Y,unknown,669
 621,670,Standing on sandbank,"Stockton Beach, Newcastle",M,1940,"FATAL, injuries to lower back",1941.00.00.b,Morning,23.0,Unprovoked,New South Wales,AUSTRALIA,Y,unknown,670
 622,671,Spearfishing & had just speared a ulua,"Kane'ohe Bay, Mokapu, O'ahu",M,1939,Hand bitten,1939.11.02.R,Unknown,,Unprovoked,Hawaii,USA,N,unknown,671
 623,673,,,M,1937,Survived,1937.02.02,Unknown,,Unprovoked,Torres Strait,AUSTRALIA,N,unknown,673
-624,675,,"Dobu Passage,  D'Entrecasteaux Islands (between Normanby & Fergusson Islands)",,1935,"Samoan missionary, Filemani, caught an 8'6 shark after it had killed 1 man & 2 boys in space of few weeks",1935.06.05.R,Unknown,,Unprovoked,Northern (Oro) Province,PAPUA NEW GUINEA,N,unknown,675
+624,675,,"Dobu Passage,  D'Entrecasteaux Islands (between Normanby & Fergusson Islands)",Unknown,1935,"Samoan missionary, Filemani, caught an 8'6 shark after it had killed 1 man & 2 boys in space of few weeks",1935.06.05.R,Unknown,,Unprovoked,Northern (Oro) Province,PAPUA NEW GUINEA,N,unknown,675
 625,677,Swimming in hip-deep water,"Dee Why, north of Queenscliff",M,1934,"FATAL, leg & buttocks removed",1934.04.01.b,Unknown,17.0,Unprovoked,New South Wales,AUSTRALIA,Y,unknown,677
 626,678,Swimming,Ipswich,M,1932,Thigh bitten,1932.02.13,Unknown,,Unprovoked,Queensland,AUSTRALIA,N,unknown,678
 627,680,Diving for trochus from lugger,Barrier Reef near Innisfail,M,1931,Left foot acerated,1932.01.06,Unknown,45.0,Unprovoked,Torres Strait,AUSTRALIA,N,unknown,680
 628,681,Swimming,"Miramar, Havana",M,1931,"FATAL, rescuers saw shark trying to drag him under by the leg",1931.08.27,Unknown,,Unprovoked,Havana Province,CUBA,Y,unknown,681
-629,682,,,,1930,"No inury to occupants, shark struck boat",1930.11.30,Unknown,,Watercraft,,AZORES,N,unknown,682
+629,682,,,Unknown,1930,"No inury to occupants, shark struck boat",1930.11.30,Unknown,,Watercraft,,AZORES,N,unknown,682
 630,683,Standing,Tugela River Mouth,M,1928,"Tissue of right thigh removed to the bone, both thumbs & some fingers severed",1928.01.02,Morning,25.0,Unprovoked,KwaZulu-Natal,SOUTH AFRICA,N,unknown,683
 631,684,Walking,Off Cairns,M,1927,FATAL,1927.07.03,Unknown,,Unprovoked,Queensland,AUSTRALIA,Y,unknown,684
 632,685,Floating on his back,Cottesloe Beach,M,1925,"FATAL, thigh  & torso bitten, then shark charged rescue boat",1926.00.00.b,Unknown,55.0,Unprovoked,Western Australia,AUSTRALIA,Y,tiger,685
 633,686,Bathing in waist-deep water,Coogee,M,1925,"Left thigh bitten, leg surgically amputated",1925.06.15,Unknown,16.0,Unprovoked,New South Wales,AUSTRALIA,N,unknown,686
 634,687,Diving for coins tossed from passenger ship,"Suva Harbor, Suva",M,1925,"Both arms bitten, surgically amputated",1925.01.27.R,Unknown,,Unprovoked,Viti Levu Island,FIJI,N,unknown,687
-635,688,Fishing,Nahant,,1922,"No injury to occupants, shark splintered stern",1922.09.28,Unknown,,Watercraft,Massachusetts,USA,N,unknown,688
+635,688,Fishing,Nahant,Unknown,1922,"No injury to occupants, shark splintered stern",1922.09.28,Unknown,,Watercraft,Massachusetts,USA,N,unknown,688
 636,689,"Fishing, attempted to take a netted shark","Sewell’s Point, near Palm Beach",M,1916,"FATAL, leg severely bitten, surgically amputated PROVOKED INCIDENT",1916.11.10,Unknown,,Provoked,Florida,USA,Y,unknown,689
 637,690,Jumped overboard from Norwegian steamship Venator,,M,1916,Presumed FATAL,1916.07.01,Unknown,,Unprovoked,,ATLANTIC OCEAN,Y,unknown,690
 638,692,Swimming,Takapuna,M,1912,Slight laceration to leg,1912.07.06.R,Unknown,,Unprovoked,North Island,NEW ZEALAND,N,unknown,692
 639,693,Fishing,"Puente Mayorga, San Roque, Cádiz",M,1909,Shark knocked him down after he grabbed it by the tail. No injury.   PROVOKED INCIDENT,1909.06.26.b.R,Unknown,,Provoked,Andalucia,SPAIN,N,unknown,693
-640,694,.,Matupi,.,1908,"Remains of 3 humans recovered from shark, but shark involvement prior to death unconfirmed",1908.06.18,Unknown,,Sea Disaster,New Britain,PAPUA NEW GUINEA,Y,unknown,694
+640,694,.,Matupi,Unknown,1908,"Remains of 3 humans recovered from shark, but shark involvement prior to death unconfirmed",1908.06.18,Unknown,,Sea Disaster,New Britain,PAPUA NEW GUINEA,Y,unknown,694
 641,695,Bathing,"Middle Harbour, Sugarloaf Bay, Sydney (Estuary)",M,1907,FATAL,1908.05.10,Unknown,,Unprovoked,New South Wales,AUSTRALIA,Y,bull,695
 642,696,Swimming,"Off Diamond Head, Honolulu, O'ahu",M,1904,"FATAL, disappeared, then shark caught with head and body of man, from waist down minus leg, in its gut",1904.00.00.c,Unknown,,Unprovoked,Hawaii,USA,Y,unknown,696
 643,697,Diving,Coddington Cove,M,1900,No injury,1900.10.27,Unknown,,Unprovoked,Rhode Island,USA,U,unknown,697
@@ -748,8 +748,8 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 745,801,Swimming,Collie River,M,2002,15 cm wound on inner thigh,2002.02.07,Unknown,32.0,Unprovoked,Western Australia,AUSTRALIA,N,unknown,801
 746,802,Diving,"Blue Planet Aquarium, Ellesmere Port",M,2001,Head bitten by captive shark PROVOKED INCIDENT,2001.09.15.b,Unknown,,Provoked,Cheshire,UNITED KINGDOM,N,tiger,802
 747,803,Fell off banana boat,Laem Mae Pim Beach,M,2001,Legs bitten,2001.08.18.a,Unknown,21 & ?,Unprovoked,Rayong Province,THAILAND,N,unknown,803
-748,804,Fishing,Peel Island,,2000,"No Injury to occupant, shark holed and sank boat",2000.11.06.a,Unknown,31.0,Watercraft,Queensland,AUSTRALIA,N,unknown,804
-749,805,,"Isle of Palms, Charleston County",,2000,Non-fatal,2000.09.18,Unknown,,Unprovoked,South Carolina,USA,N,unknown,805
+748,804,Fishing,Peel Island,Unknown,2000,"No Injury to occupant, shark holed and sank boat",2000.11.06.a,Unknown,31.0,Watercraft,Queensland,AUSTRALIA,N,unknown,804
+749,805,,"Isle of Palms, Charleston County",Unknown,2000,Non-fatal,2000.09.18,Unknown,,Unprovoked,South Carolina,USA,N,unknown,805
 750,806,Surfing,"J.P. Luby Surf Park, Corpus Christi",M,2000,Foot lacerated,2000.06.19,Unknown,17.0,Unprovoked,Texas,USA,N,blacktip,806
 751,807,Body surfing,Struis Bay,M,2000,Foot bitten,2000.03.00,Unknown,,Unprovoked,Western Cape Province,SOUTH AFRICA,N,unknown,807
 752,808,Surfing,"Cintsa East, East London",M,1999,Leg & board bitten,1999.07.06,Morning,29,Unprovoked,Eastern Cape Province,SOUTH AFRICA,N,unknown,808
@@ -759,9 +759,9 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 756,812,Fishing,Safaga,M,1997,FATAL,1997.08.11.c,Unknown,16,Unprovoked,Red Sea,EGYPT,Y,unknown,812
 757,813,Wading,"East Beach, Galveston",F,1997,Wrist & am bitten,1997.08.10,Unknown,10,Unprovoked,Texas,USA,N,unknown,813
 758,814,Windsurfing,Geraldton,M,1997,"Presumed fatal, no body recovered, shark mutilated wetsuit & harness recovered",1997.02.03,Evening,41.0,Unprovoked,Western Australia,AUSTRALIA,Y,tiger,814
-759,815,Boeing 757 enroute from Porta Plata plunged into the sea,Boeing 757 enroute from Porta Plata,,1996,"106 bodies were recovered, some had been bitten by sharks",1996.02.10.b,Unknown,,Sea Disaster,12 miles off the north coast,DOMINICAN REPUBLIC,Y,unknown,815
+759,815,Boeing 757 enroute from Porta Plata plunged into the sea,Boeing 757 enroute from Porta Plata,Unknown,1996,"106 bodies were recovered, some had been bitten by sharks",1996.02.10.b,Unknown,,Sea Disaster,12 miles off the north coast,DOMINICAN REPUBLIC,Y,unknown,815
 760,816,,"Ormond Beach, Volusia County",M,1995,Puncture wounds on right foot,1995.05.12,Unknown,20,Unprovoked,Florida,USA,N,unknown,816
-761,817,,Aniwa Island,,1994,No details,1994.12.13,Unknown,,Unprovoked,Tafea Province,VANUATU,U,unknown,817
+761,817,,Aniwa Island,Unknown,1994,No details,1994.12.13,Unknown,,Unprovoked,Tafea Province,VANUATU,U,unknown,817
 762,818,,1200 miles east of New Jersey,M,1994,Sharks took some of the crew,1994.12.11,Unknown,,Sea Disaster,,USA,Y,unknown,818
 763,819,Surfing,"Daytona Beach, Volusia County",M,1994,Right foot lacerated,1994.06.24,Morning,28,Unprovoked,Florida,USA,N,unknown,819
 764,820,Spearfishing,Arniston,M,1994,FATAL,1994.04.06,Unknown,,Unprovoked,Western Cape Province,SOUTH AFRICA,Y,unknown,820
@@ -784,12 +784,12 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 781,837,,Southport,M,1977,"Missing, believed taken by a shark",1977.06.06,Unknown,,Invalid,Queensland,AUSTRALIA,U,unknown,837
 782,838,Thrashing the water / imitating the shark victim from Jaws,Clifton,M,1976,Torso bitten,1976.12.29,Unknown,19.0,Unprovoked,Western Cape Province,SOUTH AFRICA,N,unknown,838
 783,839,Surfing,"Sebastian, Indian River County",M,1976,Laceration to left lower leg,1976.09.12.b,Unknown,15,Unprovoked,Florida,USA,N,tiger,839
-784,840,,Plettenberg Bay,,1975,Shark bit rudder & hull,1975.03.00,Unknown,,Watercraft,Western Cape Province,SOUTH AFRICA,N,unknown,840
+784,840,,Plettenberg Bay,Unknown,1975,Shark bit rudder & hull,1975.03.00,Unknown,,Watercraft,Western Cape Province,SOUTH AFRICA,N,unknown,840
 785,841,Fishing boat swamped in a storm,,M,1974,FATAL,1974.06.20,Unknown,,Sea Disaster,,BRAZIL,Y,unknown,841
 786,842,Surfing,"Inyoni Rocks, Amanzimtoti",M,1974,Right foot lacerated,1974.04.14,Unknown,17.0,Unprovoked,KwaZulu-Natal,SOUTH AFRICA,N,dusky,842
 787,843,Swimming,"Inyoni Rocks, Amanzimtoti",M,1974,Right shin lacerated,1974.03.00,Evening,19.0,Unprovoked,KwaZulu-Natal,SOUTH AFRICA,N,unknown,843
 788,844,Freedom Swimming,,M,1973,"One man was killed by a shark, the other was injured",1973.08.25,Unknown,,Unprovoked,,HONG KONG,N,unknown,844
-789,845,Swimming,"Revolcadero Beach, Acapulco",,1973,"FATAL, multiple bites",1973.03.05,Unknown,57,Unprovoked,Guerrero,MEXICO,Y,unknown,845
+789,845,Swimming,"Revolcadero Beach, Acapulco",Unknown,1973,"FATAL, multiple bites",1973.03.05,Unknown,57,Unprovoked,Guerrero,MEXICO,Y,unknown,845
 790,846,Sitting in shallows,Kosi Bay,F,1972,Foot bitten,1972.02.12,Evening,30.0,Unprovoked,KwaZulu-Natal,SOUTH AFRICA,N,zambesi,846
 791,847,Spearfishing,Ponto do Ouro,M,1972,Puncture wounds to arm,1972.01.01.b,Unknown,,Unprovoked,Maputo Province,MOZAMBIQUE,N,unknown,847
 792,848,Fishing,Pisarach (Pisaras),M,1970,Laceration to thigh,1970.12.17,Unknown,,Unprovoked,Namonuito Atoll,MICRONESIA,N,unknown,848
@@ -805,14 +805,14 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 802,858,Adrift after wave swamped engine,Port Phillip Bay,M,1962,"No injury to occupant, shark nibbled at boat",1962.10.25,Unknown,,Watercraft,South Australia,AUSTRALIA,N,nurse,858
 803,859,Diving,"Circeo, Secca del Faro",M,1962,No injury,1962.08.12,Unknown,,Unprovoked,Tyrrhenian Sea,ITALY,N,unknown,859
 804,860,Free diving,"Riviera Beach, near Palm Beach Inlet, Palm Beach County",M,1962,Left foot bitten,1962.06.07,Morning,31.0,Unprovoked,Florida,USA,N,unknown,860
-805,861,Fishing,"Seaspray, near Sale",,1962,"No injury to occupants, hooked shark dragged boat 2 miles PROVOKED INCIDENT",1962.01.07.a,Unknown,,Provoked,New South Wales,AUSTRALIA,N,unknown,861
+805,861,Fishing,"Seaspray, near Sale",Unknown,1962,"No injury to occupants, hooked shark dragged boat 2 miles PROVOKED INCIDENT",1962.01.07.a,Unknown,,Provoked,New South Wales,AUSTRALIA,N,unknown,861
 806,862,Swimming,"Sepulveda Beach, Xai Xai",M,1961,"Multiple injuries to both hands, left leg & foot",1961.04.30,Morning,37.0,Unprovoked,Gaza,MOZAMBIQUE,N,zambesi,862
 807,863,Spearfishing,Glenelg Breakwater,M,1961,"Shark took his entire catch, lacerated his knee and tore his wet suit as it brushed past him",1961.04.03,Unknown,24.0,Unprovoked,South Australia,AUSTRALIA,N,bronze whaler,863
-808,864,Spearfishing,,,1961,Arm injured,1961.00.00.e,Unknown,,Unprovoked,,NEW CALEDONIA,N,unknown,864
+808,864,Spearfishing,,Unknown,1961,Arm injured,1961.00.00.e,Unknown,,Unprovoked,,NEW CALEDONIA,N,unknown,864
 809,865,Free diving for molluscs,Thiaroye Guedi,M,1961,FATAL,1961.01.01,Unknown,20,Unprovoked,Cap Vert Peninsula,SENEGAL,Y,unknown,865
 810,866,,"Bondi Beach, Sydney",F,1960,"Shark brushed past, minor injuries if any",1961.00.00.a,Unknown,27.0,Unprovoked,New South Wales,AUSTRALIA,N,unknown,866
 811,867,Swimming,Margate,M,1960,"FATAL, legs severed",1960.12.27.b,Unknown,25.0,Unprovoked,KwaZulu-Natal,SOUTH AFRICA,Y,unknown,867
-812,869,,"Lignum Vitae Channel, Florida Keys, Monroe County",,1960,"No injury, harpooned shark bit hull, leaving tooth fragments. PROVOKED INCIDENT",1960.05.24,Unknown,,Provoked,Florida,USA,N,lemon,869
+812,869,,"Lignum Vitae Channel, Florida Keys, Monroe County",Unknown,1960,"No injury, harpooned shark bit hull, leaving tooth fragments. PROVOKED INCIDENT",1960.05.24,Unknown,,Provoked,Florida,USA,N,lemon,869
 813,870,Spearfishing,"Canadian Bay near Mount Eliza, 30 miles from Melbourne",M,1960,Minor cuts & bruises on face & neck,1960.04.12,Unknown,,Unprovoked,Victoria,AUSTRALIA,N,unknown,870
 814,871,,"Off Taludig Village, at mouth of the Murnass River",M,1960,"Lower left leg bitten, surgically amputated",1960.02.07,Unknown,,Unprovoked,Madang (WO),PAPUA NEW GUINEA,N,unknown,871
 815,873,Swimming,Luang Dulag,M,1959,"No details, survived",1959.10.02,Unknown,28.0,Unprovoked,Leyte Island,PHILIPPINES,N,unknown,873
@@ -821,7 +821,7 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 818,877,Scuba diving,"Trinidad Bay, Humboldt County",M,1955,"No injury, shark bumped diver's face",1955.03.00.b,Unknown,,Unprovoked,California,USA,N,unknown,877
 819,878,Fishing from market fishboat Sea Spray,"Santa Catalina Island, Los Angeles County",M,1953,Arm bitten by hooked shark PROVOKED INCIDENT,1953.07.31,Unknown,,Provoked,California,USA,N,unknown,878
 820,879,Swimming from fishing boat setting nets,"Maile Beach, O'ahu",M,1952,"FATAL, left arm severed below the elbow",1952.08.03,Unknown,40.0,Unprovoked,Hawaii,USA,Y,unknown,879
-821,880,Fishing,Giulianova,,1952,Multiple injuries PROVOKED INCIDENT,1952.10.12,Unknown,19,Provoked,Teramo,ITALY,Y,unknown,880
+821,880,Fishing,Giulianova,Unknown,1952,Multiple injuries PROVOKED INCIDENT,1952.10.12,Unknown,19,Provoked,Teramo,ITALY,Y,unknown,880
 822,881,Spearfishing,"Momote, Manus Island",M,1952,"FATAL,  No remains",1952.00.00.e,Unknown,,Unprovoked,"Admiralty Islands, Manus Province",PAPUA NEW GUINEA,Y,unknown,881
 823,882,Fishing,Kingston Harbor,M,1951,Lacerations to left hand,1951.12.06,Unknown,81,Unprovoked,Kingston Parish,JAMAICA,N,unknown,882
 824,883,Shipwrecked; adrift on raft for 2 days & 2 nights,,M,1951,"FATAL, two men survived, one succumbed to shark bite & exhaustion",1951.11.28.b,Unknown,,Unprovoked,,PHILIPPINES,Y,unknown,883
@@ -840,9 +840,9 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 837,896,Seine netting,Bogue (near Falmouth),M,1941,"Left knee, calf & heel bitten by shark trapped in the net PROVOKED INCIDENT",1941.03.09,Morning,,Provoked,Trelawney Province,JAMAICA,N,unknown,896
 838,897,Fishing,Double Island Beach,M,1940,Minor injury to leg,1940.12.28,Unknown,,Unprovoked,Queensland,AUSTRALIA,N,unknown,897
 839,899,,Winkelspruit,F,1940,FATAL,1940.00.00.d,Unknown,,Invalid,KwaZulu-Natal,SOUTH AFRICA,Y,unknown,899
-840,900,Japanese freighter Bokuyo Maru burned & sank,,,1939,Thought to have been taken by a shark,1939.09.27.R,Unknown,3,Sea Disaster,,PACIFIC OCEAN,Y,unknown,900
+840,900,Japanese freighter Bokuyo Maru burned & sank,,Unknown,1939,Thought to have been taken by a shark,1939.09.27.R,Unknown,3,Sea Disaster,,PACIFIC OCEAN,Y,unknown,900
 841,901,Wading,Singatoka River,M,1938,unknown,1938.05.15,Unknown,,Unprovoked,Viti Levu,FIJI,N,unknown,901
-842,903,Fishing,Botany Bay,,1937,"No injury to occupants, launch holed",1937.02.13,Unknown,,Watercraft,New South Wales,AUSTRALIA,N,unknown,903
+842,903,Fishing,Botany Bay,Unknown,1937,"No injury to occupants, launch holed",1937.02.13,Unknown,,Watercraft,New South Wales,AUSTRALIA,N,unknown,903
 843,904,"Diving for trochus , but swimming on surface",Nepean Island,M,1936,FATAL,1936.07.07,Unknown,16.0,Unprovoked,Torres Strait,AUSTRALIA,Y,tiger,904
 844,905,Swimming,"Boca Ciega Bay, Pinellas County",M,1936,FATAL,1936.07.00,Unknown,,Unprovoked,Florida,USA,Y,unknown,905
 845,906,"Fell overboard, hanging onto lifebuoy","At Flat Top, near Mackay",M,1935,"FATAL. His body was not recovered, but about 3 weeks later 2 sharks were caught with human remains, thought to be those of Quinn",1935.09.21,Unknown,38,Unprovoked,Queensland,AUSTRALIA,Y,unknown,906
@@ -860,7 +860,7 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 857,919,Bathing,Curl Curl,M,1916,Minor lacerations to heel,1916.04.25.R,Unknown,,Unprovoked,New South Wales,AUSTRALIA,N,unknown,919
 858,920,Copra vessel with 19 on board was wrecked in a squall,Opposite Apelima &  Manona,F,1914,Thigh bitten,1915.00.00,Unknown,,Sea Disaster,Apolima Strait,SAMOA,N,unknown,920
 859,921,Swimming,Victoria Bay,M,1911,FATAL,1911.05.09,Unknown,,Unprovoked,Western Cape Province,SOUTH AFRICA,Y,unknown,921
-860,922,Fishing,,,1911,"No injury to occupants, shark bit boat",1911.05.01.R,Unknown,,Watercraft,Chatham Islands,NEW ZEALAND,N,unknown,922
+860,922,Fishing,,Unknown,1911,"No injury to occupants, shark bit boat",1911.05.01.R,Unknown,,Watercraft,Chatham Islands,NEW ZEALAND,N,unknown,922
 861,923,Seine netting,"Lewes, Sussex County",M,1909,Abrasion to leg from netted shark PROVOKED INCIDENT,1909.12.05,Unknown,,Provoked,Delaware,USA,N,unknown,923
 862,924,Jumped overboard,Near the equator,M,1909,FATAL,1909.04.09.R,Unknown,36,Invalid,,,Y,unknown,924
 863,925,Fell from the jetty,Thursday Island,M,1908,FATAL,1908.12.31,Unknown,,Unprovoked,Torres Strait,AUSTRALIA,Y,unknown,925
@@ -872,9 +872,9 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 869,932,Swimming,"Middle Harbour, Sydney",M,1902,FATAL,1903.00.00.a,Unknown,17,Unprovoked,New South Wales,AUSTRALIA,Y,unknown,932
 870,933,Trailing hand in the water,Kingston Harbor,F,1898,"Hand lacerated, 2 fingers severed",1898.00.00.f,Unknown,,Unprovoked,Kingston Parish,JAMAICA,N,unknown,933
 871,934,Bathing,Anastasia Island,M,1894,Painfully injured but no details,1894.08.01,Unknown,,Unprovoked,Florida,USA,U,unknown,934
-872,935,Sailing,,,1888,No injury to occupants. Shark beat away with oar,1888.10.23.R,Unknown,,Watercraft,New York,USA,N,unknown,935
+872,935,Sailing,,Unknown,1888,No injury to occupants. Shark beat away with oar,1888.10.23.R,Unknown,,Watercraft,New York,USA,N,unknown,935
 873,936,"Crossing inlet in a boat, seen fighting sharks with his oar, sharks smashed boat","Between Lake Worth & Biscayne Bay, near Hillsboro",M,1887,FATAL,1887.12.22.R,Unknown,,Unprovoked,Florida,USA,Y,unknown,936
-874,937,,Brisbane,,1885,"No injury to occupant, shark bit off section of the boat's rudder",1886.01.01,Unknown,,Watercraft,Queensland,AUSTRALIA,N,unknown,937
+874,937,,Brisbane,Unknown,1885,"No injury to occupant, shark bit off section of the boat's rudder",1886.01.01,Unknown,,Watercraft,Queensland,AUSTRALIA,N,unknown,937
 875,938,Bathing,"Pensacola Bay, Escambia County",M,1881,FATAL,1882.00.00.a,Unknown,18,Invalid,Florida,USA,Y,unknown,938
 876,939,Floating with life buoy after pilot launch capsized,River mouth,M,1879,FATAL,1879.03.19,Unknown,,Unprovoked,Mississippi,USA,Y,tiger,939
 877,940,Bathing,Mobile Bay,M,1866,FATAL,1867.01.26.R,Unknown,,Unprovoked,Alabama,USA,Y,unknown,940
@@ -917,7 +917,7 @@ Barnstable County",M,2017,Foot bitten by landed shark PROVOKED INCIDENT,2017.08.
 914,978,,"Myrtle Beach, Horry County",M,2015,Right foot bitten,2015.09.05,Unknown,,Unprovoked,South Carolina,USA,N,unknown,978
 915,979,Floating,"Edisto Beach, Colleton County",F,2015,"2' cut to dorsum of foot, 2 puncture wounds to sole",2015.07.27,Morning,35.0,Invalid,South Carolina,USA,U,unknown,979
 916,980,Surf skiing,"Belongil Beach, Byron Bay",M,2015,"No injury, knocked off ski",2015.04.26,Morning,71,Unprovoked,New South Wales,AUSTRALIA,N,unknown,980
-917,981,Transatlantic Rowing,,,2015,"No injury, shark bit rudder",2015.03.10,Unknown,,Watercraft,,ATLANTIC OCEAN,N,unknown,981
+917,981,Transatlantic Rowing,,Unknown,2015,"No injury, shark bit rudder",2015.03.10,Unknown,,Watercraft,,ATLANTIC OCEAN,N,unknown,981
 918,982,Fishing,Assateague National Seashore,M,2014,Lacerations to foot by hooked shark PROVOKED INCIDENT,2014.08.29.b,Unknown,33,Provoked,Maryland,USA,N,unknown,982
 919,983,Surfing,"Oceano Dunes State Beach, San Luis Obispo County",M,2014,"No injury, surboard bitten",2014.07.09,Morning,,Unprovoked,California,USA,N,unknown,983
 920,984,Wading,"Destin, Okaloosa County",M,2013,Lacerations to  right forearm,2013.10.08,Unknown,12,Unprovoked,Florida,USA,N,bull,984
