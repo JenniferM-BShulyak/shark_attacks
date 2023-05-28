@@ -18,10 +18,17 @@ ______________________________________________________________________________
     
  ### Data Source:
  
- 
+ Shark Attack dataset found on OpenDataSoft.
+ Wrote HTTP requests to OpenDataSoft API endpoint to retrieve 1000 random shark attack incidents.   
  
  ### Procedure:
  
+ 1. Grabbed desired data using HTTP request and converted dataset into a Pandas Dataframe.
+ 2. Cut unnecessary fields and performed initial investigation of the data.
+ 3. Cleaned the dataset:
+    a. Cleaned up species: Filled NaN's with "unknown". Looked at unique species listed and compile them into a list. 
+       Next, take 
+ 5. Export the dataset as CSV
  ______________________________________________________________________________
  
   ## Dashboard:
