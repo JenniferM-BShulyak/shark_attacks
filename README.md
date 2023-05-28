@@ -53,7 +53,7 @@ ______________________________________________________________________________
   
   https://public.tableau.com/app/profile/jennifer.shulyak/viz/Shark_Incidents/Dashboard1
   
-  ![Tableau Dashboard]([image_url](https://github.com/JenniferM-BShulyak/shark_attacks/blob/main/TableauDashboard.png))
+  ![Tableau Dashboard]([image_url](TableauDashboard.png))
   
   _____________________________________________________________________________
   
