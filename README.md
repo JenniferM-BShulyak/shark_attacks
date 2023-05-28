@@ -14,8 +14,9 @@ ______________________________________________________________________________
     ├── Resources               # Datasource .csv from Kaggle and JSON files stored here for endpoints.
     │   ├── shark_clean.csv     # Shark data ready for Tableau
     │   ├── type_invalid.csv    # Shark data labeled as "Invalid"
-    ├── Setup.ipynb             # Python Script for extracting, transforming, and loading data  
+    ├── sharkETL.ipynb          # Python Script for extracting, transforming, and loading data  
     ├── SharkButtons            # Image files created for Tableau Dashboard
+    ├── TableauDashboard.png    # Image of Tableau Dashboard
     └── README.md               # Readme File
     
  ### Data Source:
@@ -52,7 +53,7 @@ ______________________________________________________________________________
   
   https://public.tableau.com/app/profile/jennifer.shulyak/viz/Shark_Incidents/Dashboard1
   
-  
+  ![Tableau Dashboard]([image_url](https://github.com/JenniferM-BShulyak/shark_attacks/blob/main/TableauDashboard.png))
   
   _____________________________________________________________________________
   
