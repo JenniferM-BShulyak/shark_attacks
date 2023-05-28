@@ -16,4 +16,20 @@ ______________________________________________________________________________
     ├── SharkButtons            # Image files created for Tableau Dashboard
     └── README.md               # Readme File
     
- ### Project Directory Layout
+ ### Data Source:
+ 
+ 
+ 
+ ### Procedure:
+ 
+ ______________________________________________________________________________
+ 
+  ## Dashboard:
+  
+  https://public.tableau.com/app/profile/jennifer.shulyak/viz/Shark_Incidents/Dashboard1
+  
+  
+  
+  _____________________________________________________________________________
+  
+  ## Analysis: 
