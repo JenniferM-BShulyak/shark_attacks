@@ -47,6 +47,7 @@ ______________________________________________________________________________
     g. Cleaned up sex: Sorting function written and applied to clean up the entries for the sex of the "victims."
     
  4. Exported the dataset as CSV.
+ 5. Interactive Tableau Dashboard created. Click on the shark buttons to look at information about the main species identified in incidents.
  ______________________________________________________________________________
  
   ## Dashboard:
