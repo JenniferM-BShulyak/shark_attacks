@@ -3,9 +3,11 @@ ______________________________________________________________________________
 
 ## Purpose:
 
-Sharks have been a target of fascination and fear for milennia. Incidents involving sharks are often reported and the danger they pose to humans is highly relevant as society activitely interacts with shark habitats. A goal of this project was to identify . 
+Sharks have been a target of fascination and fear for milennia. Incidents involving sharks are often reported and the danger they pose to humans is highly relevant as society activitely interacts with shark habitats. A goal of this project was to identify trends in shark encountours. The number of sharks positively identified as bull sharks and bull shark encountours overall were expected to rise as discoveries in the last ten years indicated that bull sharks were able to live in freshwaterways and have high levels of testosterone.  
 
 This dataset lacked uniformity and standardization. One goal of picking this dataset was to practice normalizing difficult datasets. 
+
+https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/carcharhinus-leucas/
 ______________________________________________________________________________
 
 ## Methodology:
@@ -59,3 +61,9 @@ ______________________________________________________________________________
   _____________________________________________________________________________
   
   ## Analysis: 
+
+* Only 32.8% of shark encountours result in the shark being positively identified. Shark identification will likely increase as technology advances such as video recording. 
+* 24.6% of reported shark encountours result in a fatality. 
+* At 79.27%, a vast majority of shark incidents involve male victims, regardless of shark species. This can be partially due to societal and economic gender roles where males are more likely to be involved in fishing.
+* The number of incidents per year has increased exponentially. This could be due to an increase in reporting, technology, human population,  shark identification, etc. The majority of the incidents occur in the United States which is likely due to the large population, especially living along the coasts, technology, and beach destinations. The number of incidents per year will likely continue to increase as more of the world becomes more techinologically advanced, economically stable, and populations increase. 
+* The increase in encontours
