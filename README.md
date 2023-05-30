@@ -54,6 +54,8 @@ ______________________________________________________________________________
  
   ## Dashboard:
   
+  Click on the shark buttons to look at information about the main species identified in incidents.
+  
   https://public.tableau.com/app/profile/jennifer.shulyak/viz/Shark_Incidents/Dashboard1
   
   ![Tableau Dashboard](TableauDashboard.png)
